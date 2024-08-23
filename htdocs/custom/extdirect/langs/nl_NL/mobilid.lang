@@ -1,0 +1,604 @@
+# Dolibarr language file - en_US - mobilid
+CHARSET = UTF-8
+settingsbutton=Instelling
+locationbutton=Locatie
+refreshbutton=Herladen
+Cancel=Annuleren
+Done=Klaar
+Validation=Validatie
+Welcome=Welkom
+mustbepresent=moet ingevuld zijn
+item=Artikel
+notfound=Niet gevonden
+systemfieldset=Systeem
+connector=Connector
+provider=Provider
+requestid=Identificatie
+requestidplaceholder=Maak u bekend
+license=Licentie
+licenseplaceholder=Add-on sleutel
+bluetooth=Bluetooth
+orientation=Orientatie
+auto=Auto
+landscape=Horizontaal
+portrait=Verticaal
+langsync=Taal Sync
+inventorypanel=Inventaris
+pickingpanel=Picking
+prospectpanel=Prospect
+orderpanel=Order
+stockfieldset=Voorraad
+productreffield=Ref
+productbarcodefield=Barcode
+warehouseselect=Locatie
+stockreelfield=Huidige voorraad
+countstep=Stap
+validateinventory=Valideer en
+removeitems=verwijder
+additems=Voeg toe
+loadcurrentstockfrom=Laad voorraad van
+transfer=Verplaats
+itemsfrom=artikelen van
+to=naar
+continue=Negeer
+cancelinventory=Annuleer Inventaris
+validateinventory=Valideer en
+inventoryinfopanel=Inventaris
+inventoryinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module om producten te inventariseren.</p><p><i>Vind het product:</i></p><ul class="list-group"><li class="list-group-item">Selecteer product uit lijst, the lijst zal maximum 100 producten bevatten. More producten worden geladen wanneer het einde van de lijst is bereikt.</li><li class="list-group-item">Scan de product barcode.</li><li class="list-group-item">Zoek product door referentie, naam of barcode in te geven in het zoekveld.</li></ul><p><i>Product telling:</i></p><ul class="list-group"><li class="list-group-item">Geef product aantal in 'aantal' veld.</li><li class="list-group-item">Vermeerder of verminder product aantal met + en - knoppen.</li><li class="list-group-item">Verplaats een aantal producten naar, of laad producten van, een andere locatie door een andere locatie te kiezen in het 'Locatie' veld.</li><li class="list-group-item">Druk op de terug toets om de aangepaste voorraad te valideren.</li></ul></div>
+pagesize=Lijst lengte
+countmode=Tel manier
+multiprices_index=Prijs index
+tosell=Verkoop
+tobuy=Aankoop
+pressbuttons=Druk knoppen
+shake=Schudden (experimenteel)
+inventoryfieldset=Inventaris
+helpbutton=Help
+cancelshipment=Annuleer levering
+validateshipment=Bevestig Levering
+pickingscanbutton=<div class="pickinglinephone"><span class="asked">Gevraagd</span><span class="toship">Klaar</span></div>
+pickingscanbuttonbar=<span class="asked">Gevraagd</span><span class="toship">Klaar</span>
+pickingscantabletbutton=<div class="pickinglinetablet"><span class="asked">Gevraagd</span><span class="toship">Klaar</span><span class="stock">Voorraad</span></div>
+pickingscantabletbuttonbar=<span class="asked">Gevraagd</span><span class="toship">Klaar</span><span class="stock">Voorraad</span>
+pickingsearchpanel=Orders
+pickinginfopanel=Picking
+pickinginfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module om klant orders te collecteren.</p><p><i>Selecteer klant order:</i></p><ul class="list-group"><li class="list-group-item">Selecteer een order uit de lijst.</li><li class="list-group-item">Of scan order nummer barcode indien beschikbaar.</li><li class="list-group-item">Als een slot symbool zichtbaar is, wil dit zeggen dat er een andere gebruiker dit order aan het collecteren is.</li></ul><p><i>Pick Order items:</i></p><ul class="list-group"><li class="list-group-item">Klik op de orderlijn om het gecollecteerde aantal in te geven.</li><li class="list-group-item">Scan de barcode van het product om 1 stuk te nemen, je dient wel een locatie geselecteerd te hebben in de menu van het hoofdscherm.</li><li class="list-group-item">Klik op de info knoppen om meer informatie te verkrijgen over het order en de producten.</li><li class="list-group-item">Gebruik de terug toets om de verzending te bevestigen.</li></ul></div>
+PickingActionPickerSlotData[0]=Neem
+PickingActionPickerSlotData[1]=Terug
+PickingActionPickerSlotData[2]=Stap
+prospectpanel=Prospect
+cancelprospect=Annuleer wijzigen
+validateprospect=Bevesting wijziging
+filterbutton=Filter
+sortbutton=Sorteer
+prospectinfobutton=Info
+prospecteditbutton=Wijzig
+contactbutton=Contacten
+agendabutton=Afspraken
+prospectfieldset=Prospect
+companyfieldset=Bedrijf
+commercialstatusselect=Status
+prospectlevelselect=Niveau
+companynamefield=Naam
+companycategoriefield=Categorie
+companyaddressfield=Adres
+companyzipfield=Postcode
+companytownfield=Gemeente
+companymailfield=Email
+companyphonefield=Tel
+companycallbutton=Contacteren
+prospectsearchpanel=Prospecten
+settingstoolbar=Instelling
+prospectpagesize=Lijst lengte
+contactpagesize=Lijst lengte
+contactfieldset=Contact
+agendafieldset=Agenda
+usertodo_id=Verkoper
+actionpagesize=Lijst lengte
+defaultdurationp=Stand. duur
+maxdurationp=Max. duur.
+filterpanel=Filters
+categoriefilterlist=Categorie
+townfilterlist=Gemeente
+statusfilterlist=Status
+filterselectallbutton=Selecteer/De-selecteer Alles
+sortby=Sorteer op
+thenby=dan op
+prospectinfopanel=Prospect
+prospectinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module om Prospects te contacteren en afspaken te maken.</p><p><i>Zoek bedrijf:</i></p><ul class="list-group"><li class="list-group-item">Selecteer bedrijf van lijst, de lijst zal maximum 100 bedrijven bevatten. Meer bedrijven worden geladen als het einde van de lijst is bereikt.</li><li class="list-group-item">Zoek bedrijf door naam, categorie of gemeente in te geven in het zoekveld.</li><li class="list-group-item">Filter de lijst op categorie, gemeente, of contact status door 'Filter' te selecteren vanuit de menu.</li><li class="list-group-item">Kies hoe de lijst te sorteren door 'Sorteer' te kiezen.</li></ul><p><i>Contacteer of wijzig bedrijf:</i></p><ul class="list-group"><li class="list-group-item">Na een bedrijf geselecteerd te hebben kan u via de menu kiezen om gegevens te wijzigen, contacten te tonen of de afspraken met dit bedrijf te tonen.</li><li class="list-group-item">Gebruikt de 'Contacteren' knop om de prospect op te bellen of een bericht te sturen.</li><li class="list-group-item">Gebruik de terug knop om eventuele wijzigingen te bevestigen.</li></ul><p><i>Voeg een afsrpaak toe aan de Agenda:</i></p><ul class="list-group"><li class="list-group-item">Selecteer een afspraak uit de lijst of maak een nieuwe vanuit de menu.</li><li class="list-group-item">Wijzig Contact, vertegenwoordiger, datum, tijd, afspraak duur (minuten), beschrijving en locatie in het afspraak formulier.</li><li class="list-group-item">Zoek een vrij tijdsslot in de agenda voor de geselecteerde verkoper door de 'Maand', 'Week' of Dag Agenda weergave te selecteren uit de menu. Het geselecteerde tijdsslot zal ingevuld worden in het agenda formulier.</li><li class="list-group-item">Gebruik de terug toets om de wijzigingen te bevestigen.</li></ul></div>
+contactby=Contact door
+hour=Uur
+minute=Minuut
+callphone=Telefoneer
+callphonepro=Telefoneer Werk
+callphoneperso=Telefoneer Privé
+callphonemobile=Telefoneer Mob.
+senssms=Stuur SMS
+sendemail=Stuur Email
+contactpanel=Contact
+cancelcontact=Annuleer wijzigen
+validatecontact=Bevestig wijziging
+newbutton=Nieuw
+contactsallbutton=Alle
+contactinfobutton=Info
+contacteditbutton=Wijzig
+contactagendabutton=Agenda
+contactfirstnamefield=Voornaam
+contactlastnamefield=Achternaam
+contactaddressfield=Adres
+contactzipfield=Postcode
+contacttownfield=Gemeente
+contactmailfield=Email
+contactphonepersofield=Thuis
+contactphoneprofield=Werk
+contactphonemobilefield=Mobiel
+contactskypefield=Skype
+contactcallbutton=Contacteren
+contactsearchpanel=Contacts
+sortcompanyname=Bedrijf
+actionpanel=Agenda
+cancelaction=Annuleer wijzigen
+validateaction=Bevestig wijziging
+actionsallbutton=Alle
+actioninfobutton=Info
+actioneditbutton=Wijzig
+actiondeletebutton=Verwijder
+monthviewbutton=Maand
+weekviewbutton=Week
+dayviewbutton=Dag
+contactselect=Contact
+usertodoselect=Verkoper
+actionlabelfield=Afspraak
+dateselect=Datum
+timeselect=Tijd
+durationselect=Duur
+actionlocationfield=Locatie
+actiondonefield=Gedaan
+actionsearchpanel=Afspraken
+orderpanel=Order
+ordereditform=Totaal
+orderitemstab=Lijnen
+orderscanbutton=<div class="orderlinephone"><span class="asked">Besteld</span><span class="unit_price">EP</span><span class="reduction">Korting</span><span class="total">Tot excl.</span><span class="ref"></span><span class="info"></span></div>
+orderscanbuttonbar=<span class="asked">Besteld</span><span class="unit_price">EP</span><span class="reduction">Korting</span><span class="total">Tot excl.</span>
+productaddbutton=Voeg Product toe
+totalfieldset=Totaal
+paymentfieldset=Betaling
+totalnetfield=Zonder BTW
+totaltaxfield=BTW
+totalincfield=Incl. BTW
+companyreductionfield=Korting
+companypaymentcondfield=Voorwaarde
+companypaymenttypefield=Wijze
+ordersearchpanel=Orders
+usecustomerpaymentcond=Gebruik klant betaalvoorwaarde
+customerpagesize=Lijst lengte
+usecustomerpricelevel=Gebruik klant prijs niveau
+useorderreduction=Gebruik order korting
+productpagesize=Lijst lengte
+orderinfopanel=Order
+orderinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module om klant orders aan te maken.</p><p><i>Selecteer een ontwerp order of maak een nieuw order:</i></p><ul class="list-group"><li class="list-group-item">Selecteer een ontwerp uit de lijst om te wijzigen.</li><li class="list-group-item">Druk op 'Nieuw order' knop om een order aan te maken.</li><li class="list-group-item">Zoek/filter/sorteer klanten and selecteer een klant om een order voor te maken. Maak een nieuwe klant aan via de menu.</li><li class="list-group-item">Wijzig klant gegevens door 'Wijzig' te kiezen uit de menu.</li><li class="list-group-item">Klik op de 'Bestel' knop om het order aan te maken.</li></ul><p><i>Voeg producten en diensten toe aan het order:</i></p><ul class="list-group"><li class="list-group-item">Druk op de 'Voeg product toe' knop om een nieuw product of dienst toe te voegene.</li><li class="list-group-item">Scan de product barcode om een nieuw product toe te voegen of een extra product aan bestaan orderlijn toe te voegen.</li><li class="list-group-item">Zoek/filter/sorteer producten of diensten, wijzig vereiste hoeveelheid en korting, voeg toe aan order.</li><li class="list-group-item">Orders en order-lijnen worden onmiddelijk aangemaakt of gewijzigd op de server. Order totalen worden berekend door de server.</li></ul></div>
+orderproductpanel=Product
+orderfieldset=Order
+productfieldset=Product
+orderlineqtyfield=Bestel aantal
+orderlinediscountfield=Korting
+productpricefield=Verkoop prijs
+warehousefield=Locatie
+producttypefilterlist=Soort
+fieldref=Referentie
+fieldlabel=Korte besch.
+fieldcategorie=Categorie
+customerpanel=Klant
+cancelcustomer=Annuleer wijzigen
+validatecustomer=Bevestig wijziging
+customerfieldset=Klant
+companyreductionfield=Korting
+companypaymentcondfield=Voorwaarde
+companypaymenttypefield=Wijze
+companyorderbutton=Order
+customersearchpanel=Klanten
+customerinfobutton=Info
+customereditbutton=Wijzig
+monthData[0]=Januari
+monthData[1]=Februari
+monthData[2]=Maart
+monthData[3]=April
+monthData[4]=Mei
+monthData[5]=Juni
+monthData[6]=Juli
+monthData[7]=Augustus
+monthData[8]=September
+monthData[9]=Oktober
+monthData[10]=November
+monthData[11]=December
+companycontactrequired=Een contactpersoon is vereist om een afspraak toe te voegen
+nonetwork=Geen netwerk
+enablenetwork=Schakel een netwerkverbinding aan.
+servererror=Server Fout
+stockalert=Voorraad
+notenoughstocktomove=Niet genoeg voorraad om te verhuizen!
+error=Fout
+startautocount=Start automatisch tellen mislukt
+newuser=Nieuwe gebruiker toegekend
+notconnected=Niet verbonden met de provider, controlleer instellingen.
+notenabled=Module niet ingeschakeld
+longpresstoenable=Druk lang op de module om te activeren, of koop een licentie bij http://www.z-application.com
+scanningfailed=Scanning mislukt:
+loacked=Geblokkeerd
+finishaction=Beëindig huidige actie.
+stockqtyreached=Voorraad aantal bereikt.
+askedqtyreached=Besteld aantal bereikt.
+busyby=In gebruik door:
+exit=Exit
+stopmobilid=Wilt U Mobilid beëindigen?
+deleteconfirm=Verwijderen
+orderlinedelete=Geselecteerde order lijn
+warning=Waarschuwing
+removesetting=Bent U er zeker van om deze instelling te verwijderen?
+bluetooth=Bluetooth
+searchdevices=Wilt U naar nieuwe apparaten zoeken?
+changeprovider=U staat op het punt om de server instelling te veranderen, hebt u uw server verplaatst of uw identificatie gewijzigd?
+cancelled=Geannuleerd
+pleaseremovesetting=Verwijder deze instelling AUB en creëer een nieuwe.
+confirmation=Bevestiging
+readytoacknowledge=Bent U klaar om de verbinding te bevestigen, er dient een gebruiker toegekend te zijn aan de server kant?
+notdeletedonserver=Niet verwijdert op de server
+missingfield=Ontbrekende verplichte velden.
+notconfirmed=Niet bevestigd
+yes=Ja
+no=Nee
+saveorderline=Opslaan
+addtoorder=Voeg toe aan order
+shipmentfieldset=Levering
+autovalidateshipment=Auto validatie levering
+barcodetrimfieldset=Barcode trim
+prefixfield=Prefix
+suffixfield=Suffix
+nomultiwarehousepicking=Huidige versie Dolibarr ondersteund geen verzendingen vanuit meerdere locaties. Selecteer uw locatie in het hoofdscherm.
+batch=Lot
+batchsearchpanel=Product Batches
+productbatchfield=Batch
+loadingmodule=Laden Module
+shutdown=Afsluiten
+countryselectfield=Land
+stateselectfield=Provincie
+nomultiwarehousescan=Selecteer uw locatie locatie in het hoofdscherm om bar-codes te scannen.
+calendarpanel=Kalender
+calendarviewbutton=Kalender
+recorddisabled=Record Uitgeschakeld
+hideautoevent=Verberg auto events
+countfromzero=Stap is start aantal
+addorderbutton=Nieuwe bestelling
+barcodetypeselect=Code type
+negativedispatch=Negatieve ontvangst
+shownotepublic=Toon publieke nota
+shownoteprivate=Toon private nota
+versioninfofieldset=Versie Info
+app_version=App
+connector_version=Connector
+erp_version=Dolibarr
+sortorder=Sorteer
+DESC=Aflopend
+ASC=Oplopend
+comment=Commentaar
+enterdispatchcomment=U kan commentaar toevoegen aan de ontvangst
+canceldispatch=Annuleer ontvangst
+validatedispatch=Valideer ontvangst
+cancelfreedispatch=Annuleer ontvangst
+validatefreedispatch=Valideer ontvangst
+freedispatchpanel=Vrije ontvangst
+dispatchpanel=Ontvangst
+productlabelfield=Naam
+hasbatchfield=Is Batch
+sellbyfield=Verkopen voor
+eatbyfield=Vervalt op
+productbatchlist[0]=<tpl if='batch_id == 0'><div class="newproductbatch">
+productbatchlist[1]=        <span class="batch">Nieuwe batch</span>
+productbatchlist[2]=        <tpl if='stock_reel &gt; 0'>
+productbatchlist[3]=            <span class="stock">{stock_reel} toevoegen</span>
+productbatchlist[4]=        </tpl><tpl if='stock_reel &lt; 0'>
+productbatchlist[5]=             <span class="stock">{stock_reel} verwijderen</span>
+productbatchlist[6]=        </tpl></div><tpl else><div class="productbatchlist">
+productbatchlist[7]=        <span class="batch">{batch}</span>
+productbatchlist[8]=        <tpl if='sellby'><span class="sellby">Verkopen voor {sellby:date('d m Y')}</span></tpl>
+productbatchlist[9]=        <tpl if='eatby'><span class="eatby">Vervalt op {eatby:date('d m Y')}</span></tpl>
+productbatchlist[10]=        <span class="stock">{stock_reel}</span>
+productbatchlist[11]=        <tpl if='batch_info'><span class="batch_info">Info: {batch_info}</span></tpl>
+productbatchlist[12]=    </div></tpl>
+freedispatchpanel=Vrije ontvangst
+productbatchinfofield=Batch Info
+countfield=Aantal
+dispatchinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module om leveranciers opdrachten te ontvangen.</p><p><i>Selecteer leveranciers opdracht:</i></p><ul class="list-group"><li class="list-group-item">Selecteer een opdracht uit de lijst.</li><li class="list-group-item">Scan de opdracht nummer of leverancier barcode indien beschikbaar.</li><li class="list-group-item">Scan artikel barcode om de orders die het artikel bevatten uit te filteren.</li><li class="list-group-item">Als het vergrendel symbool zichtbaar is, is er een andere gebruiker bezig met de ontvangst van deze opdracht.</li></ul><p><i>Ontvang de goederen:</i></p><ul class="list-group"><li class="list-group-item">Druk op het te ontvangen artikel in de lijst of scan de artikel barcode.</li><li class="list-group-item">Pas, indien nodig, het ontvangen aantal aan.</li><li class="list-group-item">Scan de barcode van het artikel om per artikel te ontvangen, hiervoor moet de &#39;Tellen vanaf 0&#39; instelling aangevinkt worden in de ontvangs instellingen. </li><li class="list-group-item">Als je een &#39;batch&#39; artikel ontvangt, dien je een nieuwe batch toe tevoegen voor ontvangst.</li><li class="list-group-item">Gebruik de &#39;terug&#39; toets om de artikel ontvangst te bevestigen. Wanneer je een &#39;barch&#39; artikel ontvangt kan je op de ontvangen batch drukken om extra parameters in te geven.</li><li class="list-group-item">Druk op de info knoppen om meer informatie te tonen over de opdracht.</li><li class="list-group-item">Gebruik de &#39;terug&#39; knop om de ontvangs opdracht te bevestigen, je kan een ontvangst commentaar ingeven indien deze functie geactiveerd is in de ontvangst instellingen. De opdracht status zal automatisch op geheel of gedeeltelijk ontvangen worden gezet. Volledig ontvangen opdrachten zullen uit de lijst verdwijnen.</li></ul><p><i>Vrije Ontvangst mode:</i></p><ul class="list-group"><li class="list-group-item">U kan nieuwe artikelen toevoegen of bestaande stock omvormen naar batchen.<li class="list-group-item">Voeg een artikel toe door &#39;Nieuw artikel&#39; te kiezen uit het menu.<li class="list-group-item">Wijzig bestaande artikelen door de barcode te scannen of door een artikel te kiezen uit de lijst.<li class="list-group-item">Als het een &#39;Batch&#39; artikel is kan je de bestaande stock omzetten door een nieuw batch toe te voegen. Je kan ook bestaande batch parameters aanpassen.</div>
+notepubliccontainer=<div class="note"><span class="notetitle">Publieke nota: </span></div>
+noteprivatecontainer=<div class="note"><span class="notetitle">Private nota: </span></div>
+dispatchlinescanbutton=<div class="productlist"><span class="asked">Besteld</span><span class="shipped">Ontvangen</span><span class="stock">Voorraad</span></div>
+dispatchlinescanbuttonbar=<span class="asked">Besteld</span><span class="shipped">Ontvangen</span><span class="stock">Stock</span>
+productsearchpanel=Artikelen
+dispatchsearchpanel=Leveranciers opdrachten
+freedispatchcheckbox=Vrije ontvangst
+userfilter=Gebruiker Filtering
+enabledispatchcomment=Ontvanst kommentaar inschakelen
+complete=Data Compleet
+notcomplete=Data niet compleet
+exceeddispatch=Aantal ontvangen overschrijdt bestelhoeveelheid.
+batchscanbutton=<div class="productbatchlist"><span class="stock">Voorraad</span></div>
+batchscanbuttonbar=<span class="stock">Voorraad</span>
+selectdevice=Selecteer apparaat ...
+pusupplierfield=Eenheid prijs
+duplicateidentification=Dubbele identificatie
+photofieldset=Photo
+includephotosfield=Toon Fotos
+photoalloweditfield=Bijwerken bij opslaan
+photoqualityfield=Qualiteit
+camera=Camera
+addproductphotobutton=Foto toevoegen
+setuserfiltertoshowrecieved=U moet een gebruikers filter toepassen op afwerkte ontvangsten te tonen.
+showrecievedbyuser=Toon volledig ontvangen
+draftorder=Klad bestelling
+validateorder=Valideer bestelling
+useinventorycode=Gebruik inventaris code
+dispatchcommentfield=kommentaar
+mioscanfield=Mio Scan knop
+locationsearchpanel=Locaties
+locationsearchfield=Locatie
+cancel=Annuleer
+autosavefield=Autm. Opslaan
+gtinnotmatchbarcode=De Gtin barcode komt niet overeen met de product barcode.
+notenoughstocktoremove=Niet genoeg stock! Annuleren?
+deleteselection=Bent U zeker van de selectie te verwijderen?
+removepanel=Stock Wegnemen
+designationsearchpanel=Aanduidingen
+removeinfopage1=<div class="infopage"> <p class="lead">Module om product uit stock weg te nemen.</p> <p> <i>Vind het product:</i> </p> <ul class="list-group"> <li class="list-group-item">Selecteer product uit lijst, the lijst zal maximum 100 producten bevatten. More producten worden geladen wanneer het einde van de lijst is bereikt.</li> <li class="list-group-item">Scan de product barcode.</li> <li class="list-group-item">Zoek product door referentie, naam of barcode in te geven in het zoekveld.</li> </ul> <p> <i>Product telling:</i> </p> <ul class="list-group"> <li class="list-group-item">Geef het aantal weg te nemen producten in.</li> <li class="list-group-item">Incrementeer aantal weg te nemen door op de + toets te drukken.</li> <li class="list-group-item">Voeg aanduidingen toe aan de stock verwijdering, een lijst van reeds gebruikte aanduidingen wordt automatisch aangemaakt om te kunnen herbruikt worden Om een nieuwe aanduiding toe te voegen, geef de nieuwe aanduiding in het zoekveld in, na drukken op de terug toets wordt de ingegeven tekst aan het formulier toegevoegd en opgeslagen in de lijst. Je kan nadien de aanduiding nog bewerken in het formulier, de bewerkte tekst zal worden toegevoegd aan de lijst.</li> <li class="list-group-item">Wanneer je de stock locatie aanpast, zal je het produkt wegnemen van de gekozen locatie.</li> <li class="list-group-item">Gebruik de terug toets om te bevestigen en terug te gaan.</li> </ul> </div>
+searchfieldset=Zoeken
+formfieldset=Formulier
+hidedispatchedline=Verberg ontvangen lijnen
+locationnotselected=Geen locatie geselecteerd, Annuleren?
+allowupdatepricefield=Wijziging leveranciersprijs
+allowupdateproductpricefield=Wijziging product prijs
+companyvatusedfield=Gebruik BTW
+noqtyandbatchchange=Geen aantal en lot wijziging tegelijkertijd toegestaan, aantal naar 0 gezet
+alloweditbatchfield=Lotgevens aanpasbaar
+updateproductpriceonlyonadd=Wijziging product prijs enkel mogelijk bij toevoeging aan bestelling
+erptimezonefield=Tijdzone Dolibarr
+refsupplierfield=Ref Leverancier
+qtysupplierfield=Aankoopaantal
+pricesupplierfield=Aankoopprijs
+companyvatfield=BTW nr
+creating=Créer ...
+methodselectfield=Methode
+setglobaldiscountbutton=Korting toekennen
+setdiscounts=Weet je zeker om de korting te verwerken op alle orderregels
+hidepickedline=Verberg genomen lijnen
+pagesizevalidation=Pagina lengte te groot.
+camerascanfield=Camera scanner uit
+clearsearch=Ledig zoek velden
+orderproductlist[0]=<tpl if="has_photo"><div class="productlistphoto"><img src='{photo}' class="photo_mini" /><tpl else><div class="productlist"></tpl>
+orderproductlist[1]=<span class="ref">{ref}</span>
+orderproductlist[2]=<span class="label">{label:ellipsis(80)}</span><tpl if="mobilid_field"><span class="mobilid_field">{mobilid_field:ellipsis(80)}</span></tpl>
+orderproductlist[3]=<span class="price">excl. {[this.formatPrice(values.price)]}</span>
+orderproductlist[4]=<span class="price_ttc">inc. {[this.formatPrice(values.price_ttc)]}</span>
+orderproductlist[5]=<tpl if="warehouse_id &gt; 0"><span class="stock">{[this.formatStock(values.stock)]} pcs</span><tpl else><span class="stock">{[this.formatStock(values.total_stock)]} pcs</span></tpl></div>
+orderproductlist[6]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+orderproductlist[7]={formatStock: function(value) {return (value - value.toFixed(0) != 0) ? value.toFixed(2) : value;}}
+orderlist[0]=<div class="orderlist"><span class="ref">{ref}</span><span class="customer">{customer:ellipsis(30)}</span><tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+orderlist[1]=    <span class="total">{[this.formatPrice(values.total_inc)]} incl.</span>
+orderlist[2]=    <span class="username">Verkocht door {user_name}</span>
+orderlist[3]=    <span class="order_date">{[this.offset(values.order_date)]}</span>
+orderlist[4]=</div>
+orderlist[5]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+orderlist[6]={offset: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),offsetedDate;if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));return Ext.Date.format(offsetedDate, 'd M Y');} else {return value;}}}
+pickinglist[0] = <div class="orderlist"><span class="ref">{ref}</span>
+pickinglist[1] = <span class="customer">{customer:ellipsis(30)}</span>
+pickinglist[2] = <tpl if="ref_customer != ''"><tpl if="ref_customer != null"><span class="ref_customer">({ref_customer:ellipsis(30)})</span></tpl></tpl>
+pickinglist[3] = <tpl if="deliver_date != ''"><tpl if="deliver_date != null"><span class="deliver_date">{[this.planned(values.deliver_date)]}</span></tpl></tpl>
+pickinglist[4] = <tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+pickinglist[5] = <span class="order_date">Besteld op {[this.offset(values.order_date)]}</span>
+pickinglist[6] = <span class="username">Auteur {user_name}</span><div>
+pickinglist[7] = {offset: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),offsetedDate;if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));return Ext.Date.format(offsetedDate, 'd M Y');} else {return value;}}}
+pickinglist[8] = {planned: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),dateString, offsetedDate, now = Date.now();if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));dateString = Ext.Date.format(offsetedDate, 'd M Y');if (offsetedDate < now) {return '! ' + dateString;} else {return dateString;}} else {return value;}}}
+labelfield=Korte besch.
+descriptionfield=Omschrijving
+createprivateindividual=Aanmaken particulier
+discountinctax=Korting incl.
+discountexltax=Korting exl.
+showservices=Toon diensten/vrije lijnen
+orderproductpanelservice=Dienst
+refcustomer=Klant. Ref.
+deliverdate=Verwacht
+hidezerostocklinesfield=Verberg 0 stock lijnen
+customercodefield=Klant code
+subpricefield=Eenheidsprijs
+sessionlost=Sessie vermoedelijk verlopen, druk terug knop opnieuw.
+searchtriggerfield=Karakteraantal om zoeken te starten
+searchtriggerfieldplaceholder=Tijp {searchtrigger} of meer karakters
+cleardiscounts=Bent u er zeker van om de kortingen te verwijderen van alle orderregels
+sessionrecover=Sessie vermoedelijk verlopen, ga naar het start scherm en herstart de module om gegevens te recupereren.
+stocklabeltransfer=Mobilid transfer - {requestid}
+stocklabelcorrect=Mobilid corrigeer - {requestid}
+stocklabelremove=Mobilid verwijder - {requestid}
+fromcamera=Vanuit camera
+fromphotolibrary=Vanuit foto bibliotheek
+purchasepanel=Aankoop
+purchasesearchpanel=Aankoop Orders
+byproductbutton=Bestel via product
+suppliernewbutton=Nieuwe leverancier
+usesupplierpaymentcond=Gebruik lev. betaal methode
+supplierfieldset=Leverancier
+purchaseinfopage1=<div class="infopage"><p class="lead">Module om aankoop bestellingen aan to maken.</p><p><i>Selecteer of maak een nieuwe klad bestelling:</i></p><ul class="list-group"><li class="list-group-item">Selecteer een klad bestelling uit de lijt om te wijzigen.</li><li class="list-group-item">Druk op de  \\'Nieuwe bestelling\\' menu knop om een nieuwe bestelling aan te maken.</li><li class="list-group-item">Zoek/Filter/sorteer leveranciers en selecteer een leverancier of maak een nieuwe leverancier aan vanuit de menu (enkel beschikbaar in de 'Mode toevoeging leverancier'.</li><li class="list-group-item">Wijzig indien nodig de leveranciers attributen door op de edit knop de drukken vanuit het menu.</li><li class="list-group-item">Druk op de bestel knop om een nieuwe klad bestelling te maken voor de leverancier.</li></ul><p><i>Voeg producten of diensten toe aan de bestelling:</i></p><ul class="list-group"><li class="list-group-item">Druk op de plus knop om nieuwe producten toe te voegen.</li><li class="list-group-item">Scan de product barcode om een nieuw product toe te voegen of het aantal te incrementeren.</li><li class="list-group-item">Zoek/filter/sorteer producten en selecteer product of dienst (in 'Mode toevoegen leverancier' worden alle producten getoond en wordt de goedkoopste prijs geladen), pas de gegevens aan en voeg toe aan bestelling.</li><li class="list-group-item">Bestellingen en bestel-lijnen worden onmiddellijk op de server aangepast. Bestelling totalen worden berekend door de server.</li></ul><p><i>Selecteer producten om toe te voegen aan bestaande orders:</i></p><ul class="list-group"><li class="list-group-item">In de bestelling lijst, druk op de \\'Bestel via product\\' knop (niet beschikbaar in de 'Mode toevoegen leverancier').</li><li class="list-group-item">Scan/Zoek/filter/sorteer en selecteer product aan te kopen.</li><li class="list-group-item">Pas indien nodig leveranciers gegevens aan via de wijzig menu-knop.</li><li class="list-group-item">Pas de nodige aantallen en kortingen aan, en voeg toe aan bestelling.</li><li class="list-group-item">Selecteer bestaande klad bestelling indien er meerder bestellingen zijn voor de leverancier.</li></ul></div>
+supplierpanel=Leverancier
+suppliersearchpanel=Leveranciers
+draftpurchase=Klad bestelling
+validatepurchase=Valideer bestelling
+desiredstockqtyreached=Voorraad aantal bereikt.
+cancelsupplier=Annuleer wijzigen
+validatesupplier=Bevestig wijziging
+setdeliveredfield=Automatische leverstatus
+createzeroshiplinesfield=Maak lege verzend lijnen.
+purchaseproductlist[0]=<tpl if="has_photo"><div class="productlistphoto"><img src='{photo}' class="photo_mini" /><tpl else><div class="productlist"></tpl>
+purchaseproductlist[1]=<span class="ref">{ref}</span>
+purchaseproductlist[2]=<span class="label">{label:ellipsis(80)}</span><tpl if="mobilid_field"><span class="mobilid_field">{mobilid_field:ellipsis(80)}</span></tpl>
+purchaseproductlist[3]=<tpl if="ref_supplier">
+purchaseproductlist[4]=  <span class="refsup">({ref_supplier})</span>
+purchaseproductlist[5]=  <span class="price_ttc">Eenheidsprijs {[this.formatPrice(values.price)]} voor aantal {[Number(values.qty_supplier)]}</span></tpl>
+purchaseproductlist[6]=<span class="stock">Stock {[this.formatStock(values.stock)]}</span>
+purchaseproductlist[7]=<span class="ordered">Besteld {[Number(values.qty_ordered)]}</span>
+purchaseproductlist[8]=<tpl if="reduction_percent_supplier &gt; 0"><span class="reduction">Korting  {[Number(values.reduction_percent_supplier)]} %</span></tpl>
+purchaseproductlist[9]=<tpl if="seuil_stock_alerte &gt;= total_stock"><span class="status">!</span></tpl></div>
+purchaseproductlist[10]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+purchaseproductlist[11]={formatStock: function(value) {return (value - value.toFixed(0) != 0) ? value.toFixed(2) : value;}}
+adding=Toevoegen ...
+purchaseorderlist[0]=<div class="orderlist"><span class="ref">{ref}</span><tpl if="ref_supplier"><span class="customer_top">{supplier:ellipsis(60)}</span><span class="ref_supplier">({ref_supplier:ellipsis(30)})</span><tpl else><span class="customer">{supplier:ellipsis(60)}</span></tpl><tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+purchaseorderlist[1]=    <span class="total">{[this.formatPrice(values.total_inc)]} incl.</span>
+purchaseorderlist[2]=    <span class="username">Autheur {user_name}</span>
+purchaseorderlist[3]=</div>
+purchaseorderlist[4]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+addsupplierfield=Mode toevoeging leverancier
+vatsupplierfield=BTW %
+warehouseselecttostore=Selecteer de bestemming voor te verplaatsen stock.
+removemovetosearchfield=Verplaatsen naar.
+signaturetitle=Handtekening
+extrafields=Aanvullende velden
+ConnectionFailed=Verbinding mislukt
+NoConnection=Geen verbinding
+SyncFailes=Sync mislukt
+pmpfield=Gemiddelde prijs/st
+orderdatefield=Bestel datum
+deliverdatefield=Verwachte leverings datum
+createdatefield=Aanmaak Datum
+validdatefield=Valideer datum
+approvedatefield=Goedkeuring datum
+notefield=Notitie
+noteprivatefield=Prive notitie
+notepublicfield=Openbare notitie
+usersellfield=Verkocht door
+startfield=Start
+endfield=Einde
+userdonefield=Gedaan door
+birthdayfield=Verjaardag
+jobfield=Functie
+faxfield=Fax
+jabberfield=Jabber Id
+urlfield=Url
+idprof1field=Id Prof 1
+idprof2field=Id Prof 2
+idprof3field=Id Prof 3
+idprof4field=Id Prof 4
+legalformfield=Juridische vorm
+productdescfield=Product omschrijving
+linedescfield=Lijn omschrijving
+linelabelfield=Lijn korte besch.
+stockqtyfield=Voorraad
+shippedqtyfield=Verzonden
+pickedqtyfield=Gecollecteerd
+taxfield=BTW %
+localtax1field=Locale tax 1
+localtax2field=Locale tax 2
+totallocaltax1field=Totale locale tax 1
+totallocaltax2field=Totale locale tax 2
+rangfield=Rangorde
+scanmodetimed=Scanner auto uit
+scanmoderead=Scanner uit na lezen
+scanmodecontinuous=Continue scannen
+companylocaltax1usedfield=Locale Tax 1 gebruikt
+companylocaltax2usedfield=Local tax 2 gebruikt
+autoproductscan=Auto-scan product in klant bestelling
+file=Selecteer bestand
+addfilebutton=Bestand
+shipmentfilefield=Bestand toevoegen aan levering
+filerequired=Bestand toevoegen is verplicht
+upload=Verstuur
+batchNotUnique=Meerdere lot nummers gevonden, scan eerst de product barcode of selecteer lot van gewenste locatie.
+providerkeymismatch=Foutieve geheime sleutel.
+notupdaterequestid=Kan de identificatie niet wijzigen, verwijder deze instelling AUB en creëer een nieuwe.
+showsubproductsfield=Toon onderliggende producten.
+multidispatchfield=Simultane ontvangst.
+exceeddispatchchoise=Ontvangen aantal is meer dan bestelde aantal, bent u zeker.
+productweightfield=Gewicht
+productlengthfield=Lengte
+productwidthfield=Breedte
+productheightfield=Hoogte
+productsurfacefield=Oppervlakte
+productvolumefield=Volume
+inventorypluspanel=Inventory Plus
+updateconfirm = Bevestig wijziging
+updateoptions = Weet u zeker dat u gewijzigde aanvullende kenmerken wilt bijwerken?
+pagesizefield = Pagina grootte
+transferfieldset = Verplaats naar bestemming mode
+transfermodecheckboxfield = Activeer verplaatsen
+copyoptionalsfield = Copier aanvullende velden
+virtualstock = Virtuele voorraad
+suppliercodefield = Leverancierscode
+batchShipmentNotUnique = Meerdere lotcodes gevonden, scan eerst de barcode van het product of selecteer manueel voor verzending van meerdere loten.
+shipmentpaneltitle = Verzending
+shipmentscanbuttonbar = <div class="pickinglinephone"><span class="asked">Besteld</span><span class="toship">Genomen</span></div>
+shipmentinfopanel = Verzending
+shipmentinfopage1 = verzendinstructies
+ShipmentActionPickerSlotData[0] = Verzend
+ShipmentActionPickerSlotData[1] = Terug
+ShipmentActionPickerSlotData[2] = Stap
+shipmentsearchpanel = Verzendingen
+swipetoship = Swipe om te nemen
+cancelshipping = Annuleer verzending
+validateshipping = Valideer verzending
+shipmentmode = Verzendings mode
+showsourcewarehousefield = Toon bron magazijn.
+pickedqtyreached = Pick aantal bereikt.
+ordercustomerreffield = Klant ref
+ordersupplierreffield = Leverancier ref
+UnableToAddProduct = Probleem met toevoegen van product.
+costpricefield = Kostprijs
+sellpricelowerthencostprice = Weet u zeker dat u will verkopen met een lagere prijs dan de kostprijs?
+connectornotcompatible = Connector niet gecontroleerd op Dolibarr-compatibiliteit.
+pleasebuy = Koop de Mobilid-connector alstublieft.
+useshippablestatusfield = Gebruik verzendbaar status
+statusfield = Status
+shippableqtyfield = Leverbare hoeveelheid
+choosedestinationfield = Kies standaardbestemming
+autoserialdispatchfield = Automatiche serienummer ontvangst
+serialqtyreached = Aantal voor serienummer bereikt.
+warehouse_sumstockfield = Toon voorraad in wereldwijde magazijnlijst
+hidezerostockforwarehousefield = Verberg 0 voorraad voor magazijn
+authorfield = Auteur
+identifyrequired = Scan de QR-code om te ontgrendelen.
+licenserequiredforidentify = Licentieveld moet een waarde hebben om te identificeren.
+lockbutton = Vergrendel
+createnegativeshiplinesfield = Maken van negatieve lijnen toestaan
+showvalidatedorderfield = Toon gevalideerde bestellingen
+defaultcustomerfieldset = Standaard klant
+usedefaultcustomercheckboxfield = Standaardklant gebruiken
+defaultcustomersearchfield = Standaard klantnaam
+linesortorder = Orderregel sorteren
+addorderdefaultcustomerbutton = Bestelling voor standaard klant
+producttoproducereffield = Component
+producedatestartfield = Geplande start datum
+producedateendfield = Geplande einddatum
+qtytoproducereffield = Aantal te produceren:
+consumedqtyfield = Aantal gebruikt
+producedqtyfield = Aantal geproduceerd
+manufactureorderpaneltitle = Orderpicking fabricage
+manufactureorderscanbuttonbar = <div class="pickinglinetablet"><span class="asked">Gevraagd</span><span class="toship">Klaar</span><span class="stock">Voorraad</span></div>
+manufactureorderinfopanel = Hulp bij fabricageorder
+manufactureorderinfopage1 = <div class="infopage"><p class="lead">Module om productieorders te picken.</p><p> <i>Selecteer productieorder:</i></p><ul class="list-group"><li class="list-group-item"> Selecteer een productieorder uit de lijst.</li><li class="list-group-item"> Of scan de barcode van het ordernummer indien beschikbaar.</li><li class="list-group-item"> Als een slotsymbool zichtbaar is in het lijstitem, haalt een andere gebruiker dit productieorder op.</li></ul><p> <i>Artikelen picken:</i></p><ul class="list-group"><li class="list-group-item"> Tik op het artikel en selecteer het aantal items dat je hebt verzameld.</li><li class="list-group-item"> Scan de barcode van het artikel om één artikel te kiezen, u moet uw magazijnlocatie selecteren in het hoofdscherm.</li><li class="list-group-item"> Tik op de infoknoppen om meer info over de bestelling of het artikel te tonen.</li><li class="list-group-item"> Gebruik de terug-knop om uw verzamelde producten te valideren. Let op alleen componenten worden ingezameld, u dient uw finaal product nog in Dolibarr te vervaardigen.</li></ul></div>
+manufactureordersearchpanel = Fabricage orders
+manufactureorderfieldset = Instellingen fabricageorder
+ManufactureOrderActionPickerSlotData[0]=Neem
+ManufactureOrderActionPickerSlotData[1]=Terug
+ManufactureOrderActionPickerSlotData[2]=Stap
+fieldrefbom = Stuklijstreferentie
+NotaValidUrl = Geen geldige URL. De domeinnaam moet punten bevatten en alleen het pad is toegestaan, er mag geen php- of htlm-bestand worden opgenomen.
+inventoryplusinfopanel=Voorraad extra
+inventoryplusinfopage1 = <div class="infopage"><p class="lead">Module om producten te inventariseren met enkele extra functies.</p><p> <i>Extra functies:</i></p><ul class="list-group"><li class="list-group-item"> Voeg een aanduiding voor voorraadverplaatsing toe, er wordt automatisch een lijst met gebruikte aanduidingen gemaakt zodat u deze gemakkelijk opnieuw kunt gebruiken. Om een nieuwe aanduiding toe te voegen, typt u de nieuwe aanduiding in het zoekveld, wanneer u op de terug-knop tikt, is de ingevoerde tekst beschikbaar in het formulier en opgeslagen in de lijst. U kunt de aanduiding in het formulier nog bewerken, de bewerkte tekst wordt als nieuwe aanduidingstekst in de lijst opgeslagen.</li><li class="list-group-item"> Voeg meerdere productfoto&#39;s toe</li><li class="list-group-item"> Voer gewicht en maat info in</li><li class="list-group-item"> Scan zoeken op GS1-128 barcode</li></ul></div>
+orderaddlinebutton = Nieuwe lijn
+manufactureorderlineqtyfield = Vereist aantal
+addlinemodefield = Lijnenmodus toevoegen
+manufactureorderautoproductscanfield = Autoscan nieuw product
+editlinemodefield = Bewerkingsmodus van lijnen
+calculatedweightfield = Berekend gewicht
+calculatedvolumefield = Berekend volume
+useproduciblestatusfield = Gebruik produceerbare status
+ConnectionLost = Verbinding verbroken
+broadcastname = Barcodelezer Naam van de Broadcastreceiver
+broadcastdatakey = Barcodelezer Gegevenssleutel van de Broadcastreceiver
+hideshipmentshippedlinefield = Verberg verzonden regels
+autovalidatepackagefield = Pakket automatisch valideren
+scanmultiplefield = GS1-barcodescan in lijst

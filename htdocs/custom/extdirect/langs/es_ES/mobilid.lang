@@ -1,0 +1,604 @@
+# Dolibarr language file - en_US - mobilid
+CHARSET = UTF-8
+settingsbutton=Configuración
+locationbutton=Localización
+refreshbutton=Refrescar
+Cancel=Cancelar
+Done=Hecho
+Validation=Validación
+Welcome=Bienvenido
+mustbepresent=debe estar presente
+item=Item
+notfound=No encontrado
+systemfieldset=Sistema
+connector=Conector
+provider=Proveedor
+requestid=Identificación
+requestidplaceholder=Identifícate a ti mismo
+license=Licencia
+licenseplaceholder=Clave del add-on
+bluetooth=Bluetooth
+orientation=Orientación
+auto=Automático
+landscape=Paisaje
+portrait=Retrato
+langsync=Sincronización idioma
+inventorypanel=Inventario
+pickingpanel=Picking
+prospectpanel=Proyecto
+orderpanel=Pedido
+stockfieldset=Stock
+productreffield=Ref
+productbarcodefield=Código de barras
+warehouseselect=Localización
+stockreelfield=Stock actual
+countstep=Paso
+validateinventory=Validado y
+removeitems=borrar
+additems=añadir
+loadcurrentstockfrom=Cargar stock actual desde
+transfer=Transferir
+itemsfrom=items desde
+to=a
+continue=Continuar
+cancelinventory=Cancelar inventario
+validateinventory=Validado y
+inventoryinfopanel=Inventario
+inventoryinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Módulo para hacer inventario de productos.</p><p><i>Buscar producto:</i></p><ul class="list-group"><li class="list-group-item">Selecciona el producto de la lista, la lista tendrá 100 items como máximo. Más items estarán disponibles al hacer scroll hacia el final de la lista.</li><li class="list-group-item">Escanear código de barras del producto.</li><li class="list-group-item">Buscar producto introduciendo la referencia, nombre o código de barras en el campo de búsqueda.Número productos:</i></p><ul class="list-group"><li class="list-group-item">Introducir el número de productos en el campo contador.</li><li class="list-group-item">Incrementar o decrementar el número de productos con los botones + y -.</li><li class="list-group-item">Mover los productos a otra localización o cambia tu localización seleccionando el campo de localización.</li><li class="list-group-item">Usa el botón atrás para validar tu stock.</li></ul></div>
+pagesize=Tamaño página
+countmode=Count Mode
+multiprices_index=Prices index
+tosell=Vender Item
+tobuy=Comprar Item
+pressbuttons=Presiona botón
+shake=Agitar (experimental)
+inventoryfieldset=Inventario
+helpbutton=Ayuda
+cancelshipment=Cancelar Envío
+validateshipment=Confirmar Envío
+pickingscanbutton=<div class="pickinglinephone"><span class="asked">Pedidos</span><span class="toship">Recibidos</span></div>
+pickingscanbuttonbar=<span class="asked">Cant. Pep.</span><span class="toship">Recibidos</span>
+pickingscantabletbutton=<div class="pickinglinetablet"><span class="asked">Pedidos</span><span class="toship">Recibidos</span><span class="stock">Stock</span></div>
+pickingscantabletbuttonbar=<span class="asked">Pedidos</span><span class="toship">Recibidos</span><span class="stock">Stock</span>
+pickingsearchpanel=Pedidos
+pickinginfopanel=Picking
+pickinginfopage1=<div class="infopage" style="background-color: #dddddd;"> <p class="lead"> Módulo para recoger los pedidos de los clientes. </p> <p> <i> Seleccionar pedido de cliente: </i> </p> <ul class="list-group"> <li class="list-group-item"> Selección de una orden de la lista. </li> <li class="list-group-item"> O escanee el código de barras del número de pedido, si está disponible. </li> <li class="list-group-item"> Si un símbolo de bloqueo está visible en el elemento de la lista, otro usuario está recogiendo este pedido. </li> </ul> <p> <i> Elegir artículos del pedido: </i> </p><ul class="list-group"> <li class="list-group-item">ccc en el icono de la habitación. </li>  <li class="list-group-item"> Escanee el código de barras del elemento para elegir un elemento, debe seleccionar su ubicación en la pantalla principal. </li> <li class="list-group-item"> Toca los botones de información para mostrar más información sobre el pedido o el artículo del pedido. </li> <li class="list-group-item"> Use el botón Atrás para validar su pedido recogido. </li> </ul> </div>
+PickingActionPickerSlotData[0]=Pick
+PickingActionPickerSlotData[1]=Restaurar
+PickingActionPickerSlotData[2]=Paso
+prospectpanel=Proyecto
+cancelprospect=Cancelar Edición
+validateprospect=Confirmar Edición
+filterbutton=Filtrar
+sortbutton=Ordenar
+prospectinfobutton=Info
+prospecteditbutton=Editar
+contactbutton=Contactos
+agendabutton=Eventos
+prospectfieldset=Proyecto
+companyfieldset=Empresa
+commercialstatusselect=Estado
+prospectlevelselect=Nivel
+companynamefield=Nombre
+companycategoriefield=Categoría
+companyaddressfield=Dirección
+companyzipfield=Cód. Postal
+companytownfield=Ciudad
+companymailfield=Email
+companyphonefield=Teléfono
+companycallbutton=Llamar
+prospectsearchpanel=Proyectos
+settingstoolbar=Configuración
+prospectpagesize=Tamaño página
+contactpagesize=Tamaño página
+contactfieldset=Contacto
+agendafieldset=Agenda
+usertodo_id=Rep. de ventas
+actionpagesize=Tamaño página
+defaultdurationp=Def. dur.
+maxdurationp=Max dur.
+filterpanel=Filtrar
+categoriefilterlist=Categoría
+townfilterlist=Ciudad
+statusfilterlist=Estado
+filterselectallbutton=Select/Deselect All
+sortby=Ord. por
+thenby=Ent. por
+prospectinfopanel=Proyecto
+prospectinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Módulo para contactar Prospectos y hacer citas.</p><p> <i>Buscar empresa:</i></p><ul class="list-group"><li class="list-group-item"> Seleccione la empresa de la lista, la lista contendrá un máximo de 100 elementos. Se cargarán más elementos al desplazarse hasta el final de la lista.</li><li class="list-group-item"> Busque la empresa ingresando el nombre, la categoría o la ciudad en el campo de búsqueda.</li><li class="list-group-item"> Filtre la lista de empresas por categoría, ciudad y estado de progreso seleccionando &#39;Filtro&#39; en el menú.</li><li class="list-group-item"> Elija cómo ordenar la lista seleccionando &#39;Ordenar&#39; en el menú.</li></ul><p> <i>Contactar o editar empresa:</i></p><ul class="list-group"><li class="list-group-item"> Después de seleccionar una empresa, puede optar por editar la empresa, mostrar los contactos o la lista de tareas de la Agenda.</li><li class="list-group-item"> Utilice el botón Llamar para iniciar una llamada de voz o enviar un mensaje a la empresa o contacto.</li><li class="list-group-item"> Use el botón Atrás para validar sus cambios.</li></ul><p> <i>Agregar o cambiar evento de agenda:</i></p><ul class="list-group"><li class="list-group-item"> Seleccione un evento de la lista de eventos o agregue uno nuevo desde el menú.</li><li class="list-group-item"> Edite la fecha, la hora, la duración del evento (minutos), la descripción del evento y la ubicación en el formulario del evento.</li><li class="list-group-item"> Cambie el contacto y el usuario para asignarle la tarea.</li><li class="list-group-item"> Busque franjas horarias libres en la agenda para el usuario seleccionado seleccionando las vistas de calendario &#39;Mes&#39;, &#39;Semana&#39; o &#39;Día&#39; en el menú. El intervalo de tiempo libre seleccionado se utilizará en el formulario de evento.</li><li class="list-group-item"> Use el botón Atrás para validar sus cambios.</li></ul></div>
+contactby=Contacto por
+hour=Hora
+minute=Minuto
+callphone=Teléfono directo
+callphonepro=Teléfono del trabajo 
+callphoneperso=Teléfono personal
+callphonemobile=Teléfono móvil
+senssms=Enviar SMS
+sendemail=Enviar correo electrónico
+contactpanel=Contacto
+cancelcontact=Cancelar Edición
+validatecontact=Confirmar Edición
+newbutton=Nuevo
+contactsallbutton=Todos
+contactinfobutton=Info
+contacteditbutton=Editar
+contactagendabutton=Agenda
+contactfirstnamefield=Nombre primero
+contactlastnamefield=Nombre de familia
+contactaddressfield=Dirección
+contactzipfield=Cód. Postal
+contacttownfield=Ciudad
+contactmailfield=Email
+contactphonepersofield=Casa
+contactphoneprofield=Trabajo
+contactphonemobilefield=Móvil
+contactskypefield=Skype
+contactcallbutton=Llamar
+contactsearchpanel=Contactos
+sortcompanyname=Terceros
+actionpanel=Agenda
+cancelaction=Cancelar Edición
+validateaction=Confirmar Edición
+actionsallbutton=Todos
+actioninfobutton=Info
+actioneditbutton=Editar
+actiondeletebutton=Eliminar
+monthviewbutton=Mes
+weekviewbutton=Semana
+dayviewbutton=Día
+contactselect=Contacto
+usertodoselect=Rep. de ventas
+actionlabelfield=Evento
+dateselect=Fecha
+timeselect=Hora
+durationselect=Duración
+actionlocationfield=Localidad
+actiondonefield=Hecho
+actionsearchpanel=Eventos
+orderpanel=Pedido
+ordereditform=Total
+orderitemstab=Lineas
+orderscanbutton=<div class="orderlinephone"> Pedidos<span class="unit_price">UP</span> <span class="reduction">Descuento</span> <span class="total">Tot net</span> <span class="ref"></span><span class="info"></span></div>
+orderscanbuttonbar=<span class="asked">Pedidos</span> <span class="unit_price">UP</span> <span class="reduction">Descuento</span> <span class="total">Tot net</span>
+productaddbutton=Añadir Producto
+totalfieldset=Total
+paymentfieldset=Pago
+totalnetfield=Impuesto neto
+totaltaxfield=Impuesto
+totalincfield=Impuesto inc.
+companyreductionfield=Descuento
+companypaymentcondfield=Condición
+companypaymenttypefield=Tipo
+ordersearchpanel=Pedidos
+usecustomerpaymentcond=Usar Cond de Pago del Cliente
+customerpagesize=Tamaño página
+usecustomerpricelevel=Usar el nivel de precio del cliente
+useorderreduction=Usar descuento de pepido
+productpagesize=Tamaño página
+orderinfopanel=Pedido
+orderinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Módulo para crear pedidos de clientes.</p><p> <i>Seleccione o cree un nuevo pedido preliminar:</i></p><ul class="list-group"><li class="list-group-item"> Seleccione un borrador de pedido de la lista para modificar el pedido.</li><li class="list-group-item"> Toque el botón &#39;Nuevo pedido&#39; para crear un nuevo pedido.</li><li class="list-group-item"> Busque/filtre/clasifique clientes y seleccione un cliente o cree un nuevo cliente desde el menú.</li><li class="list-group-item"> Cambie los atributos del cliente si es necesario tocando el botón editar del menú.</li><li class="list-group-item"> Toque el botón de pedido para crear un nuevo pedido preliminar para el cliente.</li></ul><p> <i>Añadir productos o servicios al pedido:</i></p><ul class="list-group"><li class="list-group-item"> Toque el botón Agregar producto en la pestaña de pedido para agregar un nuevo producto o servicio.</li><li class="list-group-item"> Escanee el código de barras del producto para agregar un nuevo producto o incrementar la línea de pedido existente que contiene el producto.</li><li class="list-group-item"> Busque/filtre/clasifique productos y seleccione productos o servicios, ajuste la cantidad requerida y el descuento, agregue al pedido.</li><li class="list-group-item"> Los pedidos y las líneas de pedido se crean instantáneamente en el servidor remoto. Los totales de los pedidos son calculados por el servidor.</li></ul></div>
+orderproductpanel=Producto
+orderfieldset=Pedido
+productfieldset=Producto
+orderlineqtyfield=Cantidad
+orderlinediscountfield=Descuento
+productpricefield=Precio de venta
+warehousefield=Localización
+producttypefilterlist=Tipo de producto
+fieldref=Referencia
+fieldlabel=Etiqueta
+fieldcategorie=Categoría
+customerpanel=Cliente
+cancelcustomer=Cancelar Edición
+validatecustomer=Confirmar Edición
+customerfieldset=Cliente
+companyreductionfield=Descuento
+companypaymentcondfield=Condición
+companypaymenttypefield=Tipo
+companyorderbutton=Pedido
+customersearchpanel=Clientes
+customerinfobutton=Info
+customereditbutton=Editar
+monthData[0]=Januari
+monthData[1]=Februari
+monthData[2]=Marzo
+monthData[3]=Abril
+monthData[4]=Mayo
+monthData[5]=Junio
+monthData[6]=Julio
+monthData[7]=Agosto
+monthData[8]=Septiembre
+monthData[9]=Octubre
+monthData[10]=Noviembre
+monthData[11]=Diciembre
+companycontactrequired=Se requiere un contacto para agregar un evento de agenda
+nonetwork=Sin red
+enablenetwork=Por favor habilite una conexión de red.
+servererror=Error del Servidor
+stockalert=Stock
+notenoughstocktomove=No hay suficiente stock para moverse!
+error=Error
+startautocount=Se inició el conteo automático fallido
+newuser=Nuevo usuario asignado
+notconnected=No está conectado al servidor, verifique la configuración.
+notenabled=Módulo no habilitado
+longpresstoenable=Presione prolongadamente para habilitar o comprar la licencia en http://www.z-application.com
+scanningfailed=Escaneo fallido:
+loacked=Bloqueado
+finishaction=Por favor termina la acción actual
+stockqtyreached=Cantidad de stock alcanzada.
+askedqtyreached=Cantidad solicitada alcanzada.
+busyby=Ocupado por:
+exit=Salida
+stopmobilid=¿Quieres dejar de usar Mobilid?
+deleteconfirm=Eliminar
+orderlinedelete=Línea de pedido seleccionada
+warning=Advertencia
+removesetting=¿Estás seguro de eliminar esta configuración?
+bluetooth=Bluetooth
+searchdevices=¿Quieres buscar nuevos dispositivos?
+changeprovider=Está a punto de cambiar la configuración del proveedor, ¿movió su servidor o desea cambiar el valor de sangría?
+cancelled=Cancelada
+pleaseremovesetting=Por favor, elimine esta configuración y cree una nueva.
+confirmation=Confirmar
+readytoacknowledge=¿Está listo para conectarse, debe asignarse un usuario a su identificación en el servidor?
+notdeletedonserver=No eliminado en el servidor
+missingfield=Faltan campos obligatorios
+notconfirmed=No confirma
+yes=Sí
+no=No
+saveorderline=Grabar
+addtoorder=Añadir a Pedido
+shipmentfieldset=Envío
+autovalidateshipment=Auto validar el envío
+barcodetrimfieldset=Recortar código de barras
+prefixfield=Prefijo
+suffixfield=Sufijo
+nomultiwarehousepicking=La versión actual de Dolibarr no admite envíos de ubicaciones múltiples. Seleccione su ubicación en la pantalla principal.
+batch=Lote
+batchsearchpanel=Producto lote
+productbatchfield=Lote
+loadingmodule=Módulo de carga
+shutdown=Cierre
+countryselectfield=Pais
+stateselectfield=Provincia
+nomultiwarehousescan=Seleccione su ubicación en la pantalla principal para escanear códigos de barras.
+calendarpanel=Calendario
+calendarviewbutton=Calendario
+recorddisabled=Registro desactivado
+hideautoevent=Ocultar eventos automáticos
+countfromzero=Paso es por defecto cantidad
+addorderbutton=Pedido nuevo
+barcodetypeselect=Tipo de código
+negativedispatch=Despacho negativo
+shownotepublic=Mostrar nota pública
+shownoteprivate=Mostrar nota privada
+versioninfofieldset=Info Versión
+app_version=App
+connector_version=Conector
+erp_version=Dolibarr
+sortorder=Ordenar pedidos
+DESC=Descendiendo
+ASC=Ascendente
+comment=Comentario
+enterdispatchcomment=Puedes ingresar un comentario en este Recepción.
+canceldispatch=Anular recepción
+validatedispatch=Validar recepción
+cancelfreedispatch=Anular recepción
+validatefreedispatch=Validar recepción
+freedispatchpanel=Recepción sin Pepido
+dispatchpanel=Recepción
+productlabelfield=Etiqueta
+hasbatchfield=Lote
+sellbyfield=Vender por
+eatbyfield=Comer por
+productbatchlist[0]=<tpl if='batch_id == 0'><div class="newproductbatch">
+productbatchlist[1]=        Nuevo lote
+productbatchlist[2]=        <tpl if='stock_reel &gt; 0'>
+productbatchlist[3]=            <span class="stock">{stock_reel} a crear</span>
+productbatchlist[4]=        </tpl><tpl if='stock_reel &lt; 0'>
+productbatchlist[5]=             <span class="stock">{stock_reel} a Eliminar</span>
+productbatchlist[6]=        </tpl></div><tpl else><div class="productbatchlist">
+productbatchlist[7]=        <span class="batch">{batch}</span>
+productbatchlist[8]=        <tpl if='sellby'> <span class="sellby">Vender antes de {sellby:date('d m Y')}</span> </tpl>
+productbatchlist[9]=        <tpl if='eatby'> <span class="eatby">Comer antes de {eatby:date('d m Y')}</span> </tpl>
+productbatchlist[10]=        <span class="stock">{stock_reel}</span>
+productbatchlist[11]=        <tpl if='batch_info'><span class="batch_info">Info: {batch_info}</span></tpl>
+productbatchlist[12]=    </div></tpl>
+freedispatchpanel=Recepción sin Pepido
+productbatchinfofield=Info lote
+countfield=Cant.
+dispatchinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Módulo para despacho de pedidos a proveedores.</p><p> <i>Seleccionar pedido de proveedor:</i></p><ul class="list-group"><li class="list-group-item"> Seleccione un pedido de la lista.</li><li class="list-group-item"> Escanee el código de barras de referencia del pedido o del proveedor, si está disponible.</li><li class="list-group-item"> Escanee el código de barras del producto para filtrar los pedidos que contienen productos.</li><li class="list-group-item"> Si aparece un símbolo de candado en el elemento de la lista, otro usuario está enviando este pedido.</li></ul><p> <i>Artículos de orden de envío:</i></p><ul class="list-group"><li class="list-group-item"> Toque o escanee el artículo del pedido para enviarlo.</li><li class="list-group-item"> Cambie si es necesario la cantidad del pedido recibido.</li><li class="list-group-item"> Escanee el código de barras del artículo para enviar un artículo, debe configurar &#39;Contar desde cero&#39; en la configuración de envío.</li><li class="list-group-item"> Si está enviando un producto habilitado para &#39;lotes&#39;, debe agregar un lote antes de enviarlo.</li><li class="list-group-item"> Use el botón Atrás para validar su producto enviado. Al enviar un producto habilitado para &#39;Lote&#39;, puede tocar el nuevo lote creado para ingresar parámetros de lote adicionales.</li><li class="list-group-item"> Toque los botones de información para mostrar más información sobre el pedido o el artículo del pedido.</li><li class="list-group-item"> Use el botón Atrás para validar su pedido enviado, puede ingresar un comentario sobre su pedido enviado cuando la función esté habilitada en la configuración de envío. El pedido del proveedor se configurará automáticamente como recibido total o parcialmente. Los pedidos totalmente despachados serán eliminados de la lista.</li></ul><p> <i>Modo de envío gratuito:</i></p><ul class="list-group"><li class="list-group-item"> Puede agregar nuevos Productos o Lotes en el stock de productos existente.<li class="list-group-item"> Agregue un producto seleccionando &#39;Nuevo producto&#39; en el menú.<li class="list-group-item"> Modifique el producto existente buscando y tocando un producto de la lista.<li class="list-group-item"> Cuando el producto está habilitado para &#39;Lote&#39;, puede modificar el stock sin lotes al stock en lotes, agregando un nuevo lote. También puede modificar los parámetros de &#39;Lote&#39; existentes.</div>
+notepubliccontainer=<div class="note"><span class="notetitle">Nota pública: </span></div>
+noteprivatecontainer=<div class="note"><span class="notetitle">Nota privada: </span></div>
+dispatchlinescanbutton=<div class="productlist"><span class="asked">Cant. Ped.</span><span class="shipped">Recibidos</span><span class="stock">Stock</span></div>
+dispatchlinescanbuttonbar=<span class="asked">Cant. Ped.</span><span class="shipped">Recibidos</span><span class="stock">Stock</span>
+productsearchpanel=Producto
+dispatchsearchpanel=Ordenes de compra
+freedispatchcheckbox=Recepción sin Pepido
+userfilter=Filtrado de usuarios
+enabledispatchcomment=Habilitar comentario de envío
+complete=Datos completos
+notcomplete=Datos no completos
+exceeddispatch=El conteo de despacho excede la cantidad de pedido.
+batchscanbutton=<div class="productbatchlist"><span class="stock">Stock</span></div>
+batchscanbuttonbar=<span class="stock">Stock</span>
+selectdevice=Seleccione el dispositivo ...
+pusupplierfield=Precio unitario
+duplicateidentification=Identificación duplo
+photofieldset=Foto
+includephotosfield=Mostrar fotos
+photoalloweditfield=Permitir Editar al agregar
+photoqualityfield=Calidad
+camera=Cámara
+addproductphotobutton=Añadir foto
+setuserfiltertoshowrecieved=Debe definir un filtro de usuario para mostrar los pedidos completamente recibidos.
+showrecievedbyuser=Mostrar todo lo recibido por el usuario
+draftorder=Proyecto de orden
+validateorder=Validate pepido
+useinventorycode=Usa código de inventario
+dispatchcommentfield=Comentario
+mioscanfield=Botón de escaneo Mio
+locationsearchpanel=Localidades
+locationsearchfield=Localidad
+cancel=Anular
+autosavefield=Salvar automático
+gtinnotmatchbarcode=No hay suficiente stock para eliminar! ¿Cancelar?
+notenoughstocktoremove=No hay suficiente stock para eliminar! ¿Cancelar?
+deleteselection=¿Está seguro de eliminar su selección?
+removepanel=Salida de stock
+designationsearchpanel=Designaciones
+removeinfopage1=<div class="infopage"><p class="lead">Módulo para retirar producto de stock.</p><p> <i>Encuentre el producto:</i></p><ul class="list-group"><li class="list-group-item"> Seleccione el producto de la lista, la lista contendrá un máximo de 100 artículos. Se cargarán más elementos al desplazarse hasta el final de la lista.</li><li class="list-group-item"> Escanea el código de barras del producto.</li><li class="list-group-item"> Busque el producto ingresando la referencia, el nombre o el código de barras en el campo de búsqueda.</li></ul><p> <i>Cantidad de productos:</i></p><ul class="list-group"><li class="list-group-item"> Ingrese el conteo de productos para eliminar en el campo de conteo.</li><li class="list-group-item"> Incremente el conteo para eliminar con el botón +.</li><li class="list-group-item"> Agregue la designación para la eliminación de stock, se creará automáticamente una lista de designaciones usadas para que pueda reutilizarlas fácilmente. Para agregar una nueva designación, escriba la nueva designación en el campo de búsqueda, al tocar el botón Atrás, el texto ingresado estará disponible en el formulario y se almacenará en la lista. Todavía puede editar la designación en el formulario, el texto editado se almacenará como un nuevo texto de designación en la lista.</li><li class="list-group-item"> Cuando cambie la ubicación de stock, eliminará el producto de la ubicación de stock modificada.</li><li class="list-group-item"> Use el botón Atrás para validar su eliminación de stock.</li></ul></div> &#39;,</body>
+searchfieldset=Buscar
+formfieldset=Formar
+hidedispatchedline=Ocultar líneas despachadas
+locationnotselected=Ubicación no seleccionada, ¿Cancelar?
+allowupdatepricefield=Actualizar precio de proveedor
+allowupdateproductpricefield=Actualizar precio del producto
+companyvatusedfield=Utilizar el IVA
+noqtyandbatchchange=No se permite QTY y cambio de lote al mismo tiempo, QTY establecido en 0
+alloweditbatchfield=Permitir la edición de lotes
+updateproductpriceonlyonadd=Proveedor de referencia
+erptimezonefield=Timezone Dolibarr
+refsupplierfield=Proveedor de referencia
+qtysupplierfield=Comprar cantidad
+pricesupplierfield=Precio de compra
+companyvatfield=IVA nbr
+creating=Creando ...
+methodselectfield=Método
+setglobaldiscountbutton=Descuento de subvención
+setdiscounts=¿Está seguro de actualizar los descuentos en todas las líneas de orden?
+hidepickedline=Ocultar las líneas elegidas
+pagesizevalidation=Tamaño de página demasiado grande.
+camerascanfield=Desactivar la exploración de la cámara
+clearsearch=Borrar campos de búsqueda
+orderproductlist[0]=<tpl if="has_photo"><div class="productlistphoto"><img src='{photo}' class="photo_mini" /><tpl else><div class="productlist"></tpl>
+orderproductlist[1]=<span class="ref">{ref}</span>
+orderproductlist[2]=<span class="label">{label:ellipsis(80)}</span><tpl if="mobilid_field"><span class="mobilid_field">{mobilid_field:ellipsis(80)}</span></tpl>
+orderproductlist[3]=<span class="price">Neto {[this.formatPrice(values.price)]}</span>
+orderproductlist[4]=<span class="price_ttc">inc. {[this.formatPrice(values.price_ttc)]}</span>
+orderproductlist[5]=<tpl if="warehouse_id &gt; 0"><span class="stock">{[this.formatStock(values.stock)]} pzs</span><tpl else><span class="stock">{[this.formatStock(values.total_stock)]} pzs</span></tpl></div>
+orderproductlist[6]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+orderproductlist[7]={formatStock: function(value) {return (value - value.toFixed(0) != 0) ? value.toFixed(2) : value;}}
+orderlist[0]=<div class="orderlist"><span class="ref">{ref}</span><span class="customer">{customer:ellipsis(30)}</span><tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+orderlist[1]=    <span class="total">{[this.formatPrice(values.total_inc)]} inc.</span>
+orderlist[2]=    <span class="username">Vendido por {user_name}</span>
+orderlist[3]=    <span class="order_date">{[this.offset(values.order_date)]}</span>
+orderlist[4]=</div>
+orderlist[5]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+orderlist[6]={offset: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),offsetedDate;if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));return Ext.Date.format(offsetedDate, 'd M Y');} else {return value;}}}
+pickinglist[0] = <div class="orderlist"><span class="ref">{ref}</span>
+pickinglist[1] = <span class="customer">{customer:ellipsis(30)}</span>
+pickinglist[2] = <tpl if="ref_customer != ''"><tpl if="ref_customer != null"><span class="ref_customer">({ref_customer:ellipsis(30)})</span></tpl></tpl>
+pickinglist[3] = <tpl if="deliver_date != ''"><tpl if="deliver_date != null"><span class="deliver_date">{[this.planned(values.deliver_date)]}</span></tpl></tpl>
+pickinglist[4] = <tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+pickinglist[5] = <span class="order_date">Pedido el {[this.offset(values.order_date)]}</span>
+pickinglist[6] = <span class="username">Autor {user_name}</span><div>
+pickinglist[7] = {offset: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),offsetedDate;if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));return Ext.Date.format(offsetedDate, 'd M Y');} else {return value;}}}
+pickinglist[8] = {planned: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),dateString, offsetedDate, now = Date.now();if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));dateString = Ext.Date.format(offsetedDate, 'd M Y');if (offsetedDate < now) {return '! ' + dateString;} else {return dateString;}} else {return value;}}}
+labelfield=Etiqueta
+descriptionfield=Descripción
+createprivateindividual=Crear individuo privado
+discountinctax=Dto. imp. incl.
+discountexltax=Dto. imp. exl.
+showservices=Mostrar servicio / líneas libres
+orderproductpanelservice=Servicio
+refcustomer=Cliente Ref.
+deliverdate=Planificado
+hidezerostocklinesfield=Ocultar 0 líneas de stock
+customercodefield=Code cliente
+subpricefield=Precio unitario
+sessionlost=Probablemente la sesión perdida, presione el botón atrás de nuevo.
+searchtriggerfield=Caracteres para el activador de búsqueda
+searchtriggerfieldplaceholder=Escriba {searchtrigger} o más caracteres
+cleardiscounts=¿Está seguro de actualizar los descuentos en todas las líneas de orden?
+sessionrecover=Probablemente la sesión se haya perdido, vaya a la pantalla principal y reinicie el módulo para recuperar su trabajo.
+stocklabeltransfer=Mobilid Transferencia - {requestid}
+stocklabelcorrect=Mobilid correcto - {requestid}
+stocklabelremove=Mobilid remove - {requestid}
+fromcamera=Desde camara
+fromphotolibrary=De la fotolibrería
+purchasepanel=Compra
+purchasesearchpanel=Pedidos de proveedores
+byproductbutton=Ordenar por Producto
+suppliernewbutton=Nuevo proveedor
+usesupplierpaymentcond=Usar Conductor
+supplierfieldset=Proveedor
+purchaseinfopage1=<div class="infopage"><p class="lead">Módulo para crear pedidos de proveedores.</p><p> <i>Seleccione o cree un nuevo borrador de pedido de proveedor:</i></p><ul class="list-group"><li class="list-group-item"> Seleccione un borrador de pedido de la lista para modificar el pedido.</li><li class="list-group-item"> Toque el botón \\&#39;Nuevo pedido de proveedor\\&#39; para crear un nuevo pedido.</li><li class="list-group-item"> Busque/filtre/clasifique proveedores y seleccione un proveedor o cree un nuevo proveedor desde el menú (solo disponible en &#39;Modo Agregar proveedor&#39;).</li><li class="list-group-item"> Cambie los atributos del proveedor si es necesario tocando el botón editar del menú.</li><li class="list-group-item"> Toque el botón de pedido para crear un nuevo pedido preliminar para el proveedor.</li></ul><p> <i>Añadir productos o servicios al pedido:</i></p><ul class="list-group"><li class="list-group-item"> Toque el botón más en la pestaña de pedido para agregar un nuevo producto o servicio.</li><li class="list-group-item"> Escanee el código de barras del producto para agregar un nuevo producto o incrementar la línea de pedido existente que contiene el producto.</li><li class="list-group-item"> Busque/filtre/clasifique productos y seleccione el producto o servicio (en el modo &#39;Agregar proveedor&#39; se muestran todos los productos y se carga el precio de compra más barato), ajuste la cantidad requerida y el descuento, agregue al pedido.</li><li class="list-group-item"> Los pedidos y las líneas de pedido se crean instantáneamente en el servidor remoto. Los totales de los pedidos son calculados por el servidor.</li></ul><p> <i>Seleccione productos para agregar a pedidos de proveedores nuevos o existentes:</i></p><ul class="list-group"><li class="list-group-item"> En la lista de pedidos, toque el botón \\&#39;Ordenar por producto\\&#39; (no disponible en el modo &#39;Agregar proveedor&#39;).</li><li class="list-group-item"> Escanear/buscar/filtrar/ordenar producto para comprar.</li><li class="list-group-item"> Cambie los atributos del proveedor si es necesario tocando el botón editar del menú.</li><li class="list-group-item"> Ajuste la cantidad requerida y el descuento, agregue al pedido.</li><li class="list-group-item"> Seleccione el pedido borrador existente del proveedor si hay más pedidos para el proveedor.</li></ul></div>
+supplierpanel=Proveedor
+suppliersearchpanel=Proveedores
+draftpurchase=Proyecto de orden
+validatepurchase=Validar orden
+desiredstockqtyreached=Cantidad de stock deseada alcanzada.
+cancelsupplier=Cancelar Proveedor Editar
+validatesupplier=Confirmar Proveedor Editar
+setdeliveredfield=Auto set entregado
+createzeroshiplinesfield=Crear cero líneas enviadas
+purchaseproductlist[0]=<tpl if="has_photo"><div class="productlistphoto"><img src='{photo}' class="photo_mini" /><tpl else><div class="productlist"></tpl>
+purchaseproductlist[1]=<span class="ref">{ref}</span>
+purchaseproductlist[2]=<span class="label">{label:ellipsis(80)}</span><tpl if="mobilid_field"><span class="mobilid_field">{mobilid_field:ellipsis(80)}</span></tpl>
+purchaseproductlist[3]=<tpl if="ref_supplier">
+purchaseproductlist[4]=  <span class="refsup">({ref_supplier})</span>
+purchaseproductlist[5]=  <span class="price_ttc">PU {[this.formatPrice(values.price)]} por Qty {[Number(values.qty_supplier)]}</span></tpl>
+purchaseproductlist[6]=<span class="stock">Stock {[this.formatStock(values.stock)]}</span>
+purchaseproductlist[7]=<span class="ordered">Pedido {[Number(values.qty_ordered)]}</span>
+purchaseproductlist[8]=<tpl if="reduction_percent_supplier &gt; 0"><span class="reduction">Descuento {[Number(values.reduction_percent_supplier)]} %</span></tpl>
+purchaseproductlist[9]=<tpl if="seuil_stock_alerte &gt;= total_stock"><span class="status">!</span></tpl></div>
+purchaseproductlist[10]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+purchaseproductlist[11]={formatStock: function(value) {return (value - value.toFixed(0) != 0) ? value.toFixed(2) : value;}}
+adding=Agregando ...
+purchaseorderlist[0]=<div class="orderlist"><span class="ref">{ref}</span><tpl if="ref_supplier"><span class="customer_top">{supplier:ellipsis(60)}</span><span class="ref_supplier">({ref_supplier:ellipsis(30)})</span><tpl else><span class="customer">{supplier:ellipsis(60)}</span></tpl><tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+purchaseorderlist[1]=    <span class="total">{[this.formatPrice(values.total_inc)]} inc.</span>
+purchaseorderlist[2]=    <span class="username">Autor {user_name}</span>
+purchaseorderlist[3]=</div>
+purchaseorderlist[4]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+addsupplierfield=Añadir nuevo modo de proveedor
+vatsupplierfield=IVA%
+warehouseselecttostore=Por favor, seleccione el destino al que mover sus acciones.
+removemovetosearchfield=Mover a
+signaturetitle=Firma
+extrafields=Atributos complementarios
+ConnectionFailed=La conexión falló
+NoConnection=Sin conexión
+SyncFailes=Sync Failed
+pmpfield=Precio medio / piezas
+orderdatefield=Fecha de orden
+deliverdatefield=Fecha de entrega esperada
+createdatefield=Fecha de Creación
+validdatefield=Fecha válida
+approvedatefield=Fecha de aprobación
+notefield=Nota
+noteprivatefield=Nota privada
+notepublicfield=Nota publica
+usersellfield=Vendido por
+startfield=comienzo
+endfield=Fin
+userdonefield=Realizado por
+birthdayfield=Cumpleaños
+jobfield=Trabajo
+faxfield=Fax
+jabberfield=Identificación de Jabber
+urlfield=Url
+idprof1field=Id Prof 1
+idprof2field=Id Prof 2
+idprof3field=Id Prof 3
+idprof4field=Id Prof 4
+legalformfield=Forma jurídica
+productdescfield=Descripción del producto
+linedescfield=Descripción de la línea
+linelabelfield=Etiqueta de línea
+stockqtyfield=Cantidad de stock
+shippedqtyfield=Cantidad enviada
+pickedqtyfield=Cantidad elegida
+taxfield=IVA%
+localtax1field=Localtax 1
+localtax2field=Localtax 2
+totallocaltax1field=Total Localtax 1
+totallocaltax2field=Total Localtax 2
+rangfield=Sonó
+scanmodetimed=Escaneo temporizado apagado
+scanmoderead=Escanear después de leer
+scanmodecontinuous=Modo de escaneo continuo
+companylocaltax1usedfield=IVA local 1 usado
+companylocaltax2usedfield=IVA local 2 usado
+autoproductscan=Auto agregar producto escaneado a la orden
+file=Seleccione Archivo
+addfilebutton=Agregar archivo
+shipmentfilefield=Añadir archivo al envío
+filerequired=Se requiere agregar archivo
+upload=Enviar
+batchNotUnique=Se encontró un código de lote múltiple, primero escanee el código de barras del producto o seleccione el manual de selección en múltiples ubicaciones
+providerkeymismatch=La clave secreta del proveedor no coincide
+notupdaterequestid=No puede actualizar el valor de identificación, elimine esta configuración y cree una nueva.
+showsubproductsfield=Mostrar productos para niños
+multidispatchfield=Despacho por múltiples usuarios
+exceeddispatchchoise=El conteo de despacho excede la cantidad de pedido, ¿estás seguro?
+productweightfield=Peso
+productlengthfield=Longitud
+productwidthfield=Anchura
+productheightfield=Altura
+productsurfacefield=Superficie
+productvolumefield=Volumen
+inventorypluspanel=Inventory Plus
+updateconfirm = Confirmar Edición
+updateoptions = ¿Seguro que quieres actualizar los atributos complementarios modificados?
+pagesizefield = Tamaño página
+transferfieldset = Mover al modo de destino
+transfermodecheckboxfield = Activar movimiento
+copyoptionalsfield = Copiar campos complementarios
+virtualstock = Stock virtual
+suppliercodefield = Código de proveedor
+batchShipmentNotUnique = Se encontró un código de lote múltiple, primero escanee el código de barras del producto o seleccione el manual de selección en múltiples ubicaciones
+shipmentpaneltitle = Envío
+shipmentscanbuttonbar = <div class="pickinglinephone"><span class="asked">Pedidos</span><span class="toship">Recibidos</span></div>
+shipmentinfopanel = Envío
+shipmentinfopage1 = instrucciones de envio
+ShipmentActionPickerSlotData[0] = Envio
+ShipmentActionPickerSlotData[1] = Restaurar
+ShipmentActionPickerSlotData[2] = Paso
+shipmentsearchpanel = Envíos
+swipetoship = Swipe To Ship
+cancelshipping = Cancelar Envío
+validateshipping = Validación Envio
+shipmentmode = Modo de envío
+showsourcewarehousefield = Mostrar almacén de origen
+pickedqtyreached = Se alcanzó la cantidad seleccionada.
+ordercustomerreffield = Ref cliente
+ordersupplierreffield = Ref. Proveedor
+UnableToAddProduct = No se puede agregar el producto al pedido.
+costpricefield = Precio de coste
+sellpricelowerthencostprice = ¿Está seguro de vender con un precio más bajo que el precio de costo?
+connectornotcompatible = Conector no verificado para compatibilidad con Dolibarr.
+pleasebuy = Compre conector Mobilid.
+useshippablestatusfield = Usar estado de envío
+statusfield = Estado
+shippableqtyfield = Cantidad a enviar
+choosedestinationfield = Elija el destino predeterminado
+autoserialdispatchfield = Número de serie de envío automático
+serialqtyreached = Se alcanzó la cantidad para el número de serie.
+warehouse_sumstockfield = Mostrar existencias en la lista de almacenes globales
+hidezerostockforwarehousefield = Ocultar 0 stock para almacén
+authorfield = Autor
+identifyrequired = Escanea el código QR para desbloquear.
+licenserequiredforidentify = El campo de licencia debe tener un valor para identificar.
+lockbutton = Cerradura
+createnegativeshiplinesfield = Permitir la creación de líneas negativas
+showvalidatedorderfield = Mostrar pedidos validados
+defaultcustomerfieldset = Cliente por defecto
+usedefaultcustomercheckboxfield = Usar cliente predeterminado
+defaultcustomersearchfield = Nombre de cliente predeterminado
+linesortorder = Clasificación de línea de pedido
+addorderdefaultcustomerbutton = Nuevo pedido de cliente predeterminado
+producttoproducereffield = producto a producir
+producedatestartfield = Fecha de inicio prevista
+producedateendfield = Fecha final prevista
+qtytoproducereffield = Cantidad a producir
+consumedqtyfield = Cantidad consumida
+producedqtyfield = Cantidad producida
+manufactureorderpaneltitle = Preparación de pedidos de fabricación
+manufactureorderscanbuttonbar = <div class="pickinglinetablet"><span class="asked">Pedidos</span><span class="toship">Recibidos</span><span class="stock">Stock</span></div>
+manufactureorderinfopanel = Ayuda de orden de fabricación
+manufactureorderinfopage1 = <div class="infopage"><p class="lead">Módulo para recoger órdenes de fabricación.</p><p> <i>Seleccionar orden de fabricación:</i></p><ul class="list-group"><li class="list-group-item"> Selección de un pedido de la lista.</li><li class="list-group-item"> O escanee el código de barras del número de pedido si está disponible.</li><li class="list-group-item"> Si aparece un símbolo de candado en el elemento de la lista, otro usuario está recopilando este pedido.</li></ul><p> <i>Elija artículos de pedido:</i></p><ul class="list-group"><li class="list-group-item"> Toque el artículo del pedido y seleccione la cantidad de artículos que ha recolectado.</li><li class="list-group-item"> Escanee el código de barras del artículo para elegir un artículo, debe seleccionar la ubicación de su almacén en la pantalla principal.</li><li class="list-group-item"> Toque los botones de información para mostrar más información sobre el pedido o el artículo del pedido.</li><li class="list-group-item"> Use el botón Atrás para validar sus productos recopilados. Tenga en cuenta que solo se recogen productos para consumir, aún necesita fabricar su producto en Dolibarr.</li></ul></div>
+manufactureordersearchpanel = Órdenes de fabricación
+manufactureorderfieldset = Configuración de órdenes de fabricación
+ManufactureOrderActionPickerSlotData[0]=Pick
+ManufactureOrderActionPickerSlotData[1]=Restaurar
+ManufactureOrderActionPickerSlotData[2]=Paso
+fieldrefbom = Referencia de lista de materiales
+NotaValidUrl = No es una URL válida. El nombre de dominio debe contener puntos y solo se permite la ruta, no se debe incluir ningún archivo php o htlm.
+inventoryplusinfopanel=Inventario plus
+inventoryplusinfopage1 = <div class="infopage"><p class="lead">Módulo para hacer inventario de productos con algunas características adicionales.</p><p> <i>Características adicionales:</i></p><ul class="list-group"><li class="list-group-item"> Agregue la designación para el movimiento de existencias, se creará automáticamente una lista de las designaciones utilizadas para que pueda reutilizarlas fácilmente. Para agregar una nueva designación, escriba la nueva designación en el campo de búsqueda, al tocar el botón Atrás, el texto ingresado estará disponible en el formulario y se almacenará en la lista. Todavía puede editar la designación en el formulario, el texto editado se almacenará como un nuevo texto de designación en la lista.</li><li class="list-group-item"> Agregar foto de múltiples productos</li><li class="list-group-item"> Ingrese la información de peso y tamaño</li><li class="list-group-item"> Búsqueda de escaneo por código de barras GS1-128</li></ul></div>
+orderaddlinebutton = Nueva línea
+manufactureorderlineqtyfield = Cantidad requerida
+addlinemodefield = Añadir modo de líneas
+manufactureorderautoproductscanfield = Nuevo producto de escaneo automático
+editlinemodefield = Modo editar líneas
+calculatedweightfield = Peso calculado
+calculatedvolumefield = Volumen calculado
+useproduciblestatusfield = Usar estado producible
+ConnectionLost = Conexión perdida
+broadcastname = Lector de código de barras Nombre del Broadcastreceiver
+broadcastdatakey = Lector de código de barras Clave de datos del Broadcastreceiver
+hideshipmentshippedlinefield = Ocultar líneas enviadas
+autovalidatepackagefield = Paquete de validación automática
+scanmultiplefield = Escaneo de código de barras GS1 en la lista

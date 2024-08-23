@@ -1,0 +1,570 @@
+# Dolibarr language file - en_US - mobilid
+CHARSET = UTF-8
+settingsbutton=Settings
+locationbutton=Location
+refreshbutton=Refresh
+Cancel=Cancel
+Done=Done
+Validation=Validation
+Welcome=Welcome
+mustbepresent=must be present
+item=Item
+notfound=Not Found
+systemfieldset=System
+connector=Connector
+provider=URL
+requestid=Identification
+requestidplaceholder=Identify yourself
+license=License
+licenseplaceholder=Add-on key
+bluetooth=Bluetooth
+orientation=Orientation
+auto=Auto
+landscape=Landscape
+portrait=Portrait
+langsync=Language Sync
+inventorypanel=Stock Inventory
+pickingpanel=Picking
+prospectpanel=Prospect
+orderpanel=Order
+stockfieldset=Stock
+productreffield=Ref
+productbarcodefield=Barcode
+warehouseselect=Location
+stockreelfield=Current Stock
+countstep=Step
+validateinventory=Confirm and
+removeitems=remove
+additems=add
+loadcurrentstockfrom=Load current stock from
+transfer=Transfer
+itemsfrom=items from
+to=to
+continue=Review
+cancelinventory=Undo Changes
+validateinventory=Confirm and
+inventoryinfopanel=Stock Inventory
+inventoryinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module to do products inventory.</p><p><i>Find the product:</i></p><ul class="list-group"><li class="list-group-item">Select product from list, the list will contain maximum 100 items. More items will be loaded when scrolling to the end of the list.</li><li class="list-group-item">Scan product barcode.</li><li class="list-group-item">Search product by entering reference, name or barcode in the search field.</li></ul><p><i>Product count:</i></p><ul class="list-group"><li class="list-group-item">Enter product count in the count field.</li><li class="list-group-item">Increment or decrement product count with + and - buttons.</li><li class="list-group-item">Move product count to other location or change your location by selecting the location field.</li><li class="list-group-item">Use back button to validate your stock count.</li></ul></div>
+pagesize=N° of List Items
+countmode=Count Mode
+multiprices_index=Prices index
+tosell=For Sale
+tobuy=For Purchase
+pressbuttons=Touch
+shake=Shake (experimental)
+inventoryfieldset=Stock Inventory
+helpbutton=Help
+cancelshipment=Cancel Delivery
+validateshipment=Confirm Delivery
+pickingscanbutton=<div class="pickinglinephone"><span class="asked">Asked</span><span class="toship">Picked</span></div>
+pickingscanbuttonbar=<span class="asked">Asked</span><span class="toship">Picked</span>
+pickingscantabletbutton=<div class="pickinglinetablet"><span class="asked">Asked</span><span class="toship">Picked</span><span class="stock">Stock</span></div>
+pickingscantabletbuttonbar=<span class="asked">Asked</span><span class="toship">Picked</span><span class="stock">Stock</span>
+pickingsearchpanel=Orders
+pickinginfopanel=Picking
+pickinginfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module to collect customer orders.</p><p><i>Select customer order:</i></p><ul class="list-group"><li class="list-group-item">Selection an order from the list.</li><li class="list-group-item">Or scan order number barcode if available.</li><li class="list-group-item">If a lock symbol is visible in the list item, another user is collecting this order.</li></ul><p><i>Pick Order items:</i></p><ul class="list-group"><li class="list-group-item">Tap the order item and select the amount of items you have collected.</li><li class="list-group-item">Swipe the order item to pick one item.</li><li class="list-group-item">Scan the barcode of the item to pick one item, you need to select your location in the main screen.</li><li class="list-group-item">Tap on the info buttons to show more info on the order or order item.</li><li class="list-group-item">Use back button to validate your collected order.</li></ul></div>
+PickingActionPickerSlotData[0]=Pick
+PickingActionPickerSlotData[1]=Restore
+PickingActionPickerSlotData[2]=Step
+prospectpanel=Prospect
+cancelprospect=Cancel Edit
+validateprospect=Confirm Edit
+filterbutton=Filter
+sortbutton=Sort
+prospectinfobutton=Info
+prospecteditbutton=Edit
+contactbutton=Contacts
+agendabutton=Events
+prospectfieldset=Prospect
+companyfieldset=Company
+commercialstatusselect=Status
+prospectlevelselect=Level
+companynamefield=Name
+companycategoriefield=Category
+companyaddressfield=Address
+companyzipfield=Post Code
+companytownfield=Town
+companymailfield=E-mail
+companyphonefield=Phone
+companycallbutton=Call
+prospectsearchpanel=Prospects
+settingstoolbar=Settings
+prospectpagesize=Page size
+contactpagesize=Page size
+contactfieldset=Contact
+agendafieldset=Agenda
+usertodo_id=Sales Rep.
+actionpagesize=Page size
+defaultdurationp=Def. dur.
+maxdurationp=Max dur.
+filterpanel=Filters
+categoriefilterlist=Category
+townfilterlist=Town/City
+statusfilterlist=Status
+filterselectallbutton=Select/Deselect All
+sortby=Sort by
+thenby=Then by
+prospectinfopanel=Prospect
+prospectinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module to contact Prospects and make appointments.</p><p><i>Search company:</i></p><ul class="list-group"><li class="list-group-item">Select company from list, the list will contain maximum 100 items. More items will be loaded when scrolling to the end of the list.</li><li class="list-group-item">Search company by entering name, category or town in the search field.</li><li class="list-group-item">Filter company list on category, town and progress status by selecting 'Filter' from the menu.</li><li class="list-group-item">Choose how to sort the list by selecting 'Sort' from the menu.</li></ul><p><i>Contact or edit company:</i></p><ul class="list-group"><li class="list-group-item">After selecting a company, you can choose to edit the company, show the contact(s) or Agenda task list.</li><li class="list-group-item">Use Call button to start a voice call or send a message to company or contact.</li><li class="list-group-item">Use back button to validate your changes.</li></ul><p><i>Add or change agenda event:</i></p><ul class="list-group"><li class="list-group-item">Select an event from the event list or add a new one from the menu.</li><li class="list-group-item">Edit date, time, event duration (minutes), event description and location in event form.</li><li class="list-group-item">Change contact and user to assign the task to.</li><li class="list-group-item">Search for free time-slots in the agenda for the selected user by selecting 'Month', 'Week' or 'Day' calendar views form the menu. The selected free time-slot will be used in the event form.</li><li class="list-group-item">Use back button to validate your changes.</li></ul></div>
+contactby=Contact by
+hour=Hour
+minute=Minute
+callphone=Dial Phone
+callphonepro=Dial Work Phone
+callphoneperso=Dial Personal Phone
+callphonemobile=Dial Mobile Phone
+senssms=Send SMS
+sendemail=Send E-mail
+contactpanel=Contact
+cancelcontact=Cancel Edit
+validatecontact=Confirm Edit
+newbutton=New
+contactsallbutton=All
+contactinfobutton=Info
+contacteditbutton=Edit
+contactagendabutton=Agenda
+contactfirstnamefield=First Name
+contactlastnamefield=Surname
+contactaddressfield=Address
+contactzipfield=Post Code
+contacttownfield=Town
+contactmailfield=E-mail
+contactphonepersofield=Home
+contactphoneprofield=Work
+contactphonemobilefield=Mobile
+contactskypefield=Skype
+contactcallbutton=Call
+contactsearchpanel=Contacts
+sortcompanyname=Company
+actionpanel=Agenda
+cancelaction=Cancel Edit
+validateaction=Confirm Edit
+actionsallbutton=All
+actioninfobutton=Info
+actioneditbutton=Edit
+actiondeletebutton=Delete
+monthviewbutton=Month
+weekviewbutton=Week
+dayviewbutton=Day
+contactselect=Contact
+usertodoselect=Sales Rep.
+actionlabelfield=Event
+dateselect=Date
+timeselect=Time
+durationselect=Duration
+actionlocationfield=Location
+actiondonefield=Done
+actionsearchpanel=Events
+orderpanel=Order
+ordereditform=Total
+orderitemstab=Lines
+orderscanbutton=<div class="orderlinephone"><span class="asked">Ordered</span><span class="unit_price">UP</span><span class="reduction">Discount</span><span class="total">Tot net</span><span class="ref"></span><span class="info"></span></div>
+orderscanbuttonbar=<span class="asked">Ordered</span><span class="unit_price">UP</span><span class="reduction">Discount</span><span class="total">Tot net</span>
+productaddbutton=Add Product
+totalfieldset=Total
+paymentfieldset=Payment
+totalnetfield=ex-VAT
+totaltaxfield=VAT
+totalincfield=inc. VAT
+companyreductionfield=Discount
+companypaymentcondfield=Condition
+companypaymenttypefield=Type
+ordersearchpanel=Orders
+usecustomerpaymentcond=Use Customer Payment Cond
+customerpagesize=N° of List Items
+usecustomerpricelevel=Use Customer Price Level
+useorderreduction=Use Order Discount
+productpagesize=N° of List Items
+orderinfopanel=Order
+orderinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module to create customer orders.</p><p><i>Select or create new draft order:</i></p><ul class="list-group"><li class="list-group-item">Select a draft order from list, to modify the order.</li><li class="list-group-item">Tap 'New Order' button to create new order.</li><li class="list-group-item">Search/filter/sort customers and select a customer or create a new customer from the menu.</li><li class="list-group-item">Change customer attributes if necessary by tapping the edit button from the menu.</li><li class="list-group-item">Tap the order button to create a new draft order for the customer.</li></ul><p><i>Add products or services to order:</i></p><ul class="list-group"><li class="list-group-item">Tap the add product button in the order tab, to add new product or service.</li><li class="list-group-item">Scan product barcode to add new product or increment existing order-line containing product.</li><li class="list-group-item">Search/filter/sort products and select product or service, adjust required quantity and discount, add to order.</li><li class="list-group-item">Orders and order-lines are instantly created on the remote server. Order totals are calculated by the server.</li></ul></div>
+orderproductpanel=Product
+orderfieldset=Order
+productfieldset=Product
+orderlineqtyfield=Order Qty
+orderlinediscountfield=Discount
+productpricefield=Sell Price
+warehousefield=Location
+producttypefilterlist=Product Type
+fieldref=Reference
+fieldlabel=Label
+fieldcategorie=Category
+customerpanel=Customer
+cancelcustomer=Cancel Edit
+validatecustomer=Confirm Edit
+customerfieldset=Customer
+companyreductionfield=Discount
+companypaymentcondfield=Condition
+companypaymenttypefield=Type
+companyorderbutton=Order
+customersearchpanel=Customers
+customerinfobutton=Info
+customereditbutton=Edit
+monthData[0]=January
+monthData[1]=February
+monthData[2]=March
+monthData[3]=April
+monthData[4]=May
+monthData[5]=June
+monthData[6]=July
+monthData[7]=August
+monthData[8]=September
+monthData[9]=October
+monthData[10]=November
+monthData[11]=December
+companycontactrequired=A Contact is required for adding an Agenda Event
+nonetwork=No network
+enablenetwork=No Network. Check connection settings.
+servererror=Server Error
+stockalert=Stock
+notenoughstocktomove=Not enough stock to move!
+error=Error
+startautocount=Start auto count failed
+newuser=New user assigned
+notconnected=No server connected. Check settings.
+notenabled=Module not enabled
+longpresstoenable=Long press to enable or purchase a license at http://www.z-application.com
+scanningfailed=Scanning failed:
+loacked=Locked
+finishaction=Please complete the current action
+stockqtyreached=Stock quantity reached.
+askedqtyreached=Requested quantity reached
+busyby=Busy by:
+exit=Exit
+stopmobilid=Are you sure you wish to exit?
+deleteconfirm=Delete
+orderlinedelete=Selected orderline
+warning=Warning
+removesetting=Are you sure you wish to remove this setting ?
+bluetooth=Bluetooth
+searchdevices=Would you like to search for new devices?
+changeprovider=You are about to change the provider settings, did you move your server or you want to change indentifacation value?
+cancelled=Cancelled
+pleaseremovesetting=Please remove this setting, and create a new one.
+confirmation=Confirmation
+readytoacknowledge=Are you ready to connect, a user must be assigned to your identification on the server?
+notdeletedonserver=Not deleted on server
+missingfield=Missing required fields
+notconfirmed=Not confirmed
+yes=Yes
+no=No
+saveorderline=Save
+addtoorder=Add to order
+shipmentfieldset=Shipment
+autovalidateshipment=Auto confirm shipment
+barcodetrimfieldset=Barcode trim
+prefixfield=Prefix
+suffixfield=Suffix
+nomultiwarehousepicking=Current version of Dolibarr does not support multilocation shipments. Select your location in the mainscreen.
+batch=Batch
+batchsearchpanel=Product Batches
+productbatchfield=Batch
+loadingmodule=Loading Module
+shutdown=Shutdown
+countryselectfield=Country
+stateselectfield=County
+nomultiwarehousescan=Select your location in the homescreen to scan barcodes.
+calendarpanel=Calendar
+calendarviewbutton=Calendar
+recorddisabled=Record Disabled
+hideautoevent=Hide auto events
+countfromzero=Set Step as Default QTY
+addorderbutton=New Order
+barcodetypeselect=Code Type
+negativedispatch=Negative Dispatch
+shownotepublic=Show Public Notes
+shownoteprivate=Show Private Notes
+versioninfofieldset=Version Information
+app_version=Application
+connector_version=Connector
+erp_version=Dolibarr
+sortorder=Sort Order
+DESC=Descending
+ASC=Ascending
+comment=Comment
+enterdispatchcomment=You can enter a comment on this Dispatch
+canceldispatch=Cancel Dispatch
+validatedispatch=Confirm Dispatch
+cancelfreedispatch=Cancel Dispatch
+validatefreedispatch=Confirm Dispatch
+freedispatchpanel=Free Dispatch
+dispatchpanel=Dispatch
+productlabelfield=Label
+hasbatchfield=Is Batch
+sellbyfield=Sell By
+eatbyfield=Eat By
+productbatchlist[0]=<tpl if='batch_id == 0'><div class="newproductbatch">
+productbatchlist[1]=        <span class="batch">Add new Batch</span>
+productbatchlist[2]=        <tpl if='stock_reel &gt; 0'>
+productbatchlist[3]=            <span class="stock">{stock_reel} to Add</span>
+productbatchlist[4]=        </tpl><tpl if='stock_reel &lt; 0'>
+productbatchlist[5]=             <span class="stock">{stock_reel} to Remove</span>
+productbatchlist[6]=        </tpl></div><tpl else><div class="productbatchlist">
+productbatchlist[7]=        <span class="batch">{batch}</span>
+productbatchlist[8]=        <tpl if='sellby'><span class="sellby">Sell before {sellby:date('d m Y')}</span></tpl>
+productbatchlist[9]=        <tpl if='eatby'><span class="eatby">Eat before {eatby:date('d m Y')}</span></tpl>
+productbatchlist[10]=        <span class="stock">{stock_reel}</span>
+productbatchlist[11]=        <tpl if='batch_info'><span class="batch_info">Info: {batch_info}</span></tpl>
+productbatchlist[12]=    </div></tpl>
+freedispatchpanel=Free Dispatch
+productbatchinfofield=Batch Info
+countfield=QTY
+dispatchinfopage1=<div class="infopage" style="background-color: #dddddd;"><p class="lead">Module to dispatch supplier orders.</p><p><i>Select supplier order:</i></p><ul class="list-group"><li class="list-group-item">Select an order from the list.</li><li class="list-group-item">Scan order or supplier reference barcode if available.</li><li class="list-group-item">Scan product barcode to filter orders containing product.</li><li class="list-group-item">If a lock symbol is visible in the list item, another user is dispatching this order.</li></ul><p><i>Dispatch Order items:</i></p><ul class="list-group"><li class="list-group-item">Tap or scan the order item to dispatch.</li><li class="list-group-item">Change if necessary the received order qty.</li><li class="list-group-item">Scan the barcode of the item to dispatch one item, you need to set &#39;Count from zero&#39; is dispatch settings. </li><li class="list-group-item">If you are dispatching a &#39;batch&#39; enabled product, you have to add a batch before dispatching.</li><li class="list-group-item">Use back button to validate your dispatched product. When dispatching a &#39;Batch&#39; enabled product you can tap the new created batch for entering additional batch parameters.</li><li class="list-group-item">Tap on the info buttons to show more info on the order or order item.</li><li class="list-group-item">Use back button to validate your dispatched order, you can enter comment on your dispatched order when function enabled in dispatch settings. The supplier order will be set automatically to totally or partly received. Totally dispatched orders will be removed from the list.</li></ul><p><i>Free Dispatch mode:</i></p><ul class="list-group"><li class="list-group-item">You can add new Products or Batches on existing product stock.<li class="list-group-item">Add a product by selecting &#39;New product&#39; from the menu.<li class="list-group-item">Modify existing product by searching and tapping a product from the list.<li class="list-group-item">When the product is &#39;Batch&#39; enabled, you can modify non batched stock to batched stock, by adding a new batch. You can also modify existing &#39;Batch&#39; parameters.</div>
+notepubliccontainer=<div class="note"><span class="notetitle">Note Public: </span></div>
+noteprivatecontainer=<div class="note"><span class="notetitle">Note Private: </span></div>
+dispatchlinescanbutton=<div class="productlist"><span class="asked">Ordered</span><span class="shipped">Dispatched</span><span class="stock">Stock</span></div>
+dispatchlinescanbuttonbar=<span class="asked">Ordered</span><span class="shipped">Dispatched</span><span class="stock">Stock</span>
+productsearchpanel=Products
+dispatchsearchpanel=Purchase Orders
+freedispatchcheckbox=Free Dispatch
+userfilter=User Filtering
+enabledispatchcomment=Enable Dispatch Comment
+complete=Data Complete
+notcomplete=Data not complete
+exceeddispatch=Dispatch count exceeds order quantity.
+batchscanbutton=<div class="productbatchlist"><span class="stock">Stock</span></div>
+batchscanbuttonbar=<span class="stock">Stock</span>
+selectdevice=Select device...
+pusupplierfield=Unit Price
+duplicateidentification=Duplicate Identification
+photofieldset=Photo
+includephotosfield=Show Photos
+photoalloweditfield=Allow editing when adding photos
+photoqualityfield=Quality
+camera=Camera
+addproductphotobutton=Add Photo
+setuserfiltertoshowrecieved=You must define a user filter to show completely received orders
+showrecievedbyuser=Show all received by user
+draftorder=Draft Order
+validateorder=Confirm Order
+useinventorycode=Use Inventory Code
+dispatchcommentfield=Comment
+mioscanfield=Mio Scan Button
+locationsearchpanel=Locations
+locationsearchfield=Location
+cancel=Cancel
+autosavefield=Auto Save
+gtinnotmatchbarcode=Gtin barcode does no match product barcode.
+notenoughstocktoremove=Not enough stock to remove! Cancel?
+deleteselection=Are you sure to delete your selection?
+removepanel=Stock Exit
+designationsearchpanel=Designations
+removeinfopage1=<div class="infopage"> <p class="lead">Module to remove product from stock.</p> <p> <i>Find the product:</i> </p> <ul class="list-group"> <li class="list-group-item">Select product from list, the list will contain maximum 100 items. More items will be loaded when scrolling to the end of the list.</li> <li class="list-group-item">Scan product barcode.</li> <li class="list-group-item">Search product by entering reference, name or barcode in the search field.</li> </ul> <p> <i>Product count:</i> </p> <ul class="list-group"> <li class="list-group-item">Enter product count to remove in the count field.</li> <li class="list-group-item">Increment count to remove with + button.</li> <li class="list-group-item">Add designation for stock removal, a list of used designations will be automaticly created so you can easy re-use them. To add a new designation, type the new designation in the search field, when tapping the back button the entered text will be available in the form and stored in the list. You can still edit the designation in the form, the edited text will be stored as a new designation text in the list.</li> <li class="list-group-item">When you change the stock location, you will remove product from changed stock location.</li> <li class="list-group-item">Use back button to validate your stock removal.</li> </ul> </div>&#39;,</body>
+searchfieldset=Search
+formfieldset=Form
+hidedispatchedline=Hide dispatched lines
+locationnotselected=Location not selected, Cancel?
+allowupdatepricefield=Update supplier price
+allowupdateproductpricefield=Update product price
+companyvatusedfield=Use VAT
+noqtyandbatchchange=No QTY and batch change at same time allowed, QTY set to 0
+alloweditbatchfield=Allow lot editing
+updateproductpriceonlyonadd=Product price update only possible when adding product to order
+erptimezonefield=Dolibarr Timezone
+refsupplierfield=Ref Supplier
+qtysupplierfield=Purchase QTY
+pricesupplierfield=Buying Price
+companyvatfield=VAT N°
+creating=Creating ...
+methodselectfield=Method
+setglobaldiscountbutton=Grant Discount
+setdiscounts=Are you sure to update discounts on all orderlines
+hidepickedline=Hide picked lines
+pagesizevalidation=Page size too large.
+camerascanfield=Disable Camera scan
+clearsearch=Clear search fields
+orderproductlist[0]=<tpl if="has_photo"><div class="productlistphoto"><img src='{photo}' class="photo_mini" /><tpl else><div class="productlist"></tpl>
+orderproductlist[1]=<span class="ref">{ref}</span>
+orderproductlist[2]=<span class="label">{label:ellipsis(80)}</span>
+orderproductlist[3]=<span class="price">net {[this.formatPrice(values.price)]}</span>
+orderproductlist[4]=<span class="price_ttc">inc. {[this.formatPrice(values.price_ttc)]}</span>
+orderproductlist[5]=<tpl if="warehouse_id &gt; 0"><span class="stock">{[this.formatStock(values.stock)]} pcs</span><tpl else><span class="stock">{[this.formatStock(values.total_stock)]} pcs</span></tpl></div>
+orderproductlist[6]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+orderproductlist[7]={formatStock: function(value) {return (value - value.toFixed(0) != 0) ? value.toFixed(2) : value;}}
+orderlist[0]=<div class="orderlist"><span class="ref">{ref}</span><span class="customer">{customer:ellipsis(30)}</span><tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+orderlist[1]=    <span class="total">{[this.formatPrice(values.total_inc)]} inc.</span>
+orderlist[2]=    <span class="username">Sold by {user_name}</span>
+orderlist[3]=    <span class="order_date">{[this.offset(values.order_date)]}</span>
+orderlist[4]=</div>
+orderlist[5]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+orderlist[6]={offset: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),offsetedDate;if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));return Ext.Date.format(offsetedDate, 'd M Y');} else {return value;}}}
+pickinglist[0] = <div class="orderlist"><span class="ref">{ref}</span>
+pickinglist[1] = <span class="customer">{customer:ellipsis(30)}</span>
+pickinglist[2] = <tpl if="ref_customer != ''"><tpl if="ref_customer != null"><span class="ref_customer">({ref_customer:ellipsis(30)})</span></tpl></tpl>
+pickinglist[3] = <tpl if="deliver_date != ''"><tpl if="deliver_date != null"><span class="deliver_date">{[this.planned(values.deliver_date)]}</span></tpl></tpl>
+pickinglist[4] = <tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+pickinglist[5] = <span class="order_date">Ordered on {[this.offset(values.order_date)]}</span>
+pickinglist[6] = <span class="username">Author {user_name}</span><div>
+pickinglist[7] = {offset: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),offsetedDate;if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));return Ext.Date.format(offsetedDate, 'd M Y');} else {return value;}}}
+pickinglist[8] = {planned: function (value) {var setting = Ext.getStore('settings').findRecord('active', 'active'),dateString, offsetedDate, now = Date.now();if (value instanceof Date) {offsetedDate = Ext.Date.add(value, Ext.Date.HOUR, setting.get('timezone_diff'));dateString = Ext.Date.format(offsetedDate, 'd M Y');if (offsetedDate < now) {return '! ' + dateString;} else {return dateString;}} else {return value;}}}
+labelfield=Label
+descriptionfield=Description
+createprivateindividual=Create private individual
+discountinctax=Disc. inc VAT
+discountexltax=Disc. ex-VAT
+showservices=Show service/free lines
+orderproductpanelservice=Service
+refcustomer=Cust. Ref.
+deliverdate=Planned
+hidezerostocklinesfield=Hide 0 stock lines
+customercodefield=Customer Code
+subpricefield=Unit Price
+sessionlost=Probably session lost, press back button again.
+searchtriggerfield=Chars for search trigger
+searchtriggerfieldplaceholder=Type {searchtrigger} or more characters
+cleardiscounts=Are you sure to clear discounts on all orderlines
+sessionrecover=Probably session lost, go to main screen and restart module to recover your work.
+stocklabeltransfer=Mobilid transfer - {requestid}
+stocklabelcorrect=Mobilid correct - {requestid}
+stocklabelremove=Mobilid remove - {requestid}
+fromcamera=From Camera
+fromphotolibrary=From Photolibrary
+purchasepanel=Purchase
+purchasesearchpanel=Supplier Orders
+byproductbutton=Order by Product
+suppliernewbutton=New Supplier
+usesupplierpaymentcond=Use Supplier Payment Cond
+supplierfieldset=Supplier
+purchaseinfopage1=<div class="infopage"><p class="lead">Module to create supplier orders.</p><p><i>Select or create new draft supplier order:</i></p><ul class="list-group"><li class="list-group-item">Select a draft order from list, to modify the order.</li><li class="list-group-item">Tap \\'New Supplier Order\\' button to create new order.</li><li class="list-group-item">Search/filter/sort suppliers and select a supplier or create a new supplier from the menu (only available in 'Add supplier mode'.</li><li class="list-group-item">Change supplier attributes if necessary by tapping the edit button from the menu.</li><li class="list-group-item">Tap the order button to create a new draft order for the supplier.</li></ul><p><i>Add products or services to order:</i></p><ul class="list-group"><li class="list-group-item">Tap the plus button in the order tab, to add new product or service.</li><li class="list-group-item">Scan product barcode to add new product or increment existing order-line containing product.</li><li class="list-group-item">Search/filter/sort products and select product or service (in 'Add supplier mode' all products are shown and cheapest buy price is loaded), adjust required quantity and discount, add to order.</li><li class="list-group-item">Orders and order-lines are instantly created on the remote server. Order totals are calculated by the server.</li></ul><p><i>Select products to add to new or existing supplier orders:</i></p><ul class="list-group"><li class="list-group-item">In the order list, tap \\'Order by Product\\' button (not available in 'Add supplier mode').</li><li class="list-group-item">Scan/Search/filter/sort product to purchase.</li><li class="list-group-item">Change supplier attributes if necessary by tapping the edit button from the menu.</li><li class="list-group-item">Adjust required quantity and discount, add to order.</li><li class="list-group-item">Select existing draft order from supplier if there are more orders for the supplier.</li></ul></div>
+supplierpanel=Supplier
+suppliersearchpanel=Suppliers
+draftpurchase=Draft order
+validatepurchase=Validate order
+desiredstockqtyreached=Desired stock quantity reached.
+cancelsupplier=Cancel Supplier Edit
+validatesupplier=Confirm Supplier Edit
+setdeliveredfield=Auto set delivered
+createzeroshiplinesfield=Create zero shipped lines
+purchaseproductlist[0]=<tpl if="has_photo"><div class="productlistphoto"><img src='{photo}' class="photo_mini" /><tpl else><div class="productlist"></tpl>
+purchaseproductlist[1]=<span class="ref">{ref}</span>
+purchaseproductlist[2]=<span class="label">{label:ellipsis(80)}</span>
+purchaseproductlist[3]=<tpl if="ref_supplier">
+purchaseproductlist[4]=  <span class="refsup">({ref_supplier})</span>
+purchaseproductlist[5]=  <span class="price_ttc">Unit price {[this.formatPrice(values.price)]} for Qty {[Number(values.qty_supplier)]}</span></tpl>
+purchaseproductlist[6]=<span class="stock">Stock {[this.formatStock(values.stock)]}</span>
+purchaseproductlist[7]=<span class="ordered">Ordered {[Number(values.qty_ordered)]}</span>
+purchaseproductlist[8]=<tpl if="reduction_percent_supplier &gt; 0"><span class="reduction">Discount {[Number(values.reduction_percent_supplier)]} %</span></tpl>
+purchaseproductlist[9]=<tpl if="seuil_stock_alerte &gt;= total_stock"><span class="status">!</span></tpl></div>
+purchaseproductlist[10]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+purchaseproductlist[11]={formatStock: function(value) {return (value - value.toFixed(0) != 0) ? value.toFixed(2) : value;}}
+adding=Adding ...
+purchaseorderlist[0]=<div class="orderlist"><span class="ref">{ref}</span><tpl if="ref_supplier"><span class="customer_top">{supplier:ellipsis(60)}</span><span class="ref_supplier">({ref_supplier:ellipsis(30)})</span><tpl else><span class="customer">{supplier:ellipsis(60)}</span></tpl><tpl if="status == 'START'"><span class="status fa fa-lock fa-lg"></span></tpl>
+purchaseorderlist[1]=    <span class="total">{[this.formatPrice(values.total_inc)]} inc.</span>
+purchaseorderlist[2]=    <span class="username">Author {user_name}</span>
+purchaseorderlist[3]=</div>
+purchaseorderlist[4]={formatPrice: function(value) {return value ? value.toFixed(2) : 0;}}
+addsupplierfield=Add new supplier mode
+vatsupplierfield=VAT %
+warehouseselecttostore=Please select the destination to where to move your stock.
+removemovetosearchfield=Move to
+signaturetitle=Signature
+extrafields=Complementary attributes
+ConnectionFailed=Connection failed
+NoConnection=No connection
+SyncFailes=Sync Failed
+pmpfield=Average price/pcs
+orderdatefield=Order date
+deliverdatefield=Expected deliver Date
+createdatefield=Create Date
+validdatefield=Valid Date
+approvedatefield=Approve Date
+notefield=Note
+noteprivatefield=Note private
+notepublicfield=Note public
+usersellfield=Sold by
+startfield=Start
+endfield=End
+userdonefield=Done by
+birthdayfield=Birthday
+jobfield=Job
+faxfield=Fax
+jabberfield=Jabber Id
+urlfield=Url
+idprof1field=Id Prof 1
+idprof2field=Id Prof 2
+idprof3field=Id Prof 3
+idprof4field=Id Prof 4
+legalformfield=Legal form
+productdescfield=Product description
+linedescfield=Line description
+linelabelfield=Line label
+stockqtyfield=Stock qty
+shippedqtyfield=Shipped qty
+pickedqtyfield=Picked qty
+taxfield=VAT %
+localtax1field=Localtax 1
+localtax2field=Localtax 2
+totallocaltax1field=Total Localtax 1
+totallocaltax2field=Total Localtax 2
+rangfield=Rang
+scanmodetimed=Timed scan off
+scanmoderead=Scan off after read
+scanmodecontinuous=Continious scan mode
+companylocaltax1usedfield=Local VAT 1 used
+companylocaltax2usedfield=Local VAT 2 used
+autoproductscan=Auto add scanned product to Order
+file=Select file
+addfilebutton=Add File
+shipmentfilefield=Add file to shipment
+filerequired=Add file is required
+upload=Send
+batchNotUnique=Multiple lot code found, first scan product barcode or for multi location picking select manual.
+providerkeymismatch=Provider secret key mismatch
+notupdaterequestid=You can not update the identification value, please remove this setting, and create a new one.
+showsubproductsfield=Show child products
+multidispatchfield=Dispatch by multiple users
+exceeddispatchchoise=Dispatch count exceeds order qty, are you sure?
+productweightfield=Weight
+productlengthfield=Length
+productwidthfield=Width
+productheightfield=Height
+productsurfacefield=Surface
+productvolumefield=Volume
+inventorypluspanel=Inventory Plus
+updateconfirm = Confirm Update
+updateoptions = Sure you want to update modified complementary attributes?
+pagesizefield = Page Size
+transferfieldset = Move to destination mode
+transfermodecheckboxfield = Activate move
+copyoptionalsfield = Copy complementary fields
+virtualstock = Virtual Stock
+suppliercodefield = Supplier code
+batchShipmentNotUnique = Multiple lot code found, first scan product barcode or for multi lot shipping select manual.
+shipmentpaneltitle = Shipment
+shipmentscanbuttonbar = <div class="pickinglinephone"><span class="asked">Asked</span><span class="toship">Picked</span></div>
+shipmentinfopanel = Shipment
+shipmentinfopage1 = shipment instructions
+ShipmentActionPickerSlotData[0] = Ship
+ShipmentActionPickerSlotData[1] = Restore
+ShipmentActionPickerSlotData[2] = Step
+shipmentsearchpanel = Shipments
+swipetoship = Swipe To Ship
+cancelshipping = Cancel shipping
+validateshipping = Validate shipping
+shipmentmode = Ship mode
+showsourcewarehousefield = Show source warehouse
+pickedqtyreached = Picked quantity reached.
+ordercustomerreffield = Customer Ref
+ordersupplierreffield = Supplier Ref
+UnableToAddProduct = Unable to add product to order.
+costpricefield = Cost price
+sellpricelowerthencostprice = Are you sure to sell with price lower then the cost price?
+connectornotcompatible = Connector not checked for Dolibarr compatibility.
+pleasebuy = Please buy Mobilid connector.
+useshippablestatusfield = Use shippable status
+statusfield = Status
+shippableqtyfield = Shippable quantity
+choosedestinationfield = Choose default destination
+autoserialdispatchfield = Auto dispatch serialnumber
+serialqtyreached = Quantity for serialnumber reached.
+warehouse_sumstockfield = Show stock in global warehouse list
+hidezerostockforwarehousefield = Hide 0 stock for warehouse
+authorfield = Author
+identifyrequired = Scan QR code to unlock.
+licenserequiredforidentify = License field needs to have a value to Identify.
+lockbutton = Lock
+createnegativeshiplinesfield = Allow creation of negative lines
+showvalidatedorderfield = Show validated orders
+defaultcustomerfieldset = Default customer
+usedefaultcustomercheckboxfield = Use default customer
+defaultcustomersearchfield = Default customer name
+linesortorder = Order line sort
